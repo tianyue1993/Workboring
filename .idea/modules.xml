@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11-1.iml" filepath="$PROJECT_DIR$/11-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DcareNetVolley/DcareNetVolley.iml" filepath="$PROJECT_DIR$/DcareNetVolley/DcareNetVolley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DcarePhotoSelector/DcarePhotoSelector.iml" filepath="$PROJECT_DIR$/DcarePhotoSelector/DcarePhotoSelector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DcarePullTorefreshlibrary/DcarePullTorefreshlibrary.iml" filepath="$PROJECT_DIR$/DcarePullTorefreshlibrary/DcarePullTorefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DcareServerVolly/DcareServerVolly.iml" filepath="$PROJECT_DIR$/DcareServerVolly/DcareServerVolly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dcarecom.loopj.android.http/Dcarecom.loopj.android.http.iml" filepath="$PROJECT_DIR$/Dcarecom.loopj.android.http/Dcarecom.loopj.android.http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/android-support-v7-appcompat/android-support-v7-appcompat.iml" />
+    </modules>
+  </component>
+</project>

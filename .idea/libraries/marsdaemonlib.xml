@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="marsdaemonlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DcareServerVolly/libs/marsdaemonlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

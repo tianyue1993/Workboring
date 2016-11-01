@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DcareNetVolley" />
+            <option value="$PROJECT_DIR$/DcarePhotoSelector" />
+            <option value="$PROJECT_DIR$/DcarePullTorefreshlibrary" />
+            <option value="$PROJECT_DIR$/DcareServerVolly" />
+            <option value="$PROJECT_DIR$/Dcarecom.loopj.android.http" />
+            <option value="$PROJECT_DIR$/android-support-v7-appcompat" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

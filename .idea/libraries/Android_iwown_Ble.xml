@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Android_iwown_Ble">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DcareServerVolly/libs/Android_iwown_Ble.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

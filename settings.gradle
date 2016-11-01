@@ -1,0 +1,6 @@
+include ':android-support-v7-appcompat'
+include ':DcarePhotoSelector'
+include ':Dcarecom.loopj.android.http'
+include ':DcareServerVolly'
+include ':DcareNetVolley'
+include ':DcarePullTorefreshlibrary'

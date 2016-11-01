@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.etcomm.dcare"
+    android:versionCode="24"
+    android:versionName="1.9.4" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TOP_ACTIVITyINFO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 自定义权限 -->
+    <uses-permission android:name="getui.permission.GetuiService.com.etcomm.dcare" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- 分享相关权限 -->
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+
+    <application
+        android:name="com.etcomm.dcare.app.common.DcareApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:persistent="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.etcomm.dcare.SplashActivity"
+            android:label="@string/app_name"
+            android:persistent="true"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name="com.umeng.socialize.editorpage.ShareActivity"
+            android:excludeFromRecents="true"
+            android:theme="@style/Theme.UMDefault" />
+        <activity
+            android:name="wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.etcomm.dcare.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.ShareActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.base.BaseActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.BaseFragmentActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.ChangePasswordActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.ChangePasswordActivityNew"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.ChooseComStructureActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.EnterAgeWeightHeightActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.EnterpriseActivationActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.ForgotPasswordActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.ForgotPasswordActivityNew"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.LoginActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.LoginActivityNew"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.RegisterActivityNew"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.login.RegisterActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.ShowAlartViewBaseActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.SportRecommandActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.EnterUserNameChooseAvatarActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.TrendRecordActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.ExamineReportActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.BaseWebViewActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MineFeedBackActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MineSportsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SettingActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.HealthConsultActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.PointsExchangeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MyExchangeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MsgListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.SearchHealthNewsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.PointsColleketDetailActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- android:theme="@style/AnimationThemeActivity" -->
+        <activity
+            android:name="com.etcomm.dcare.MyPointsDetailActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.CompanyWelfareActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.CompanyWelfareListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.SuggestSportDetailActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.HealthConsultListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.RelateWorkNumberActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SettingPersonalDataActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SelectSexPopupWindowActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.ChangeNickNameActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.AgeActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.BindHcActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Holo.Dialog" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SelectPicPopupWindowActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.HeightActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.WeightActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.DepartMentActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SettingSportGoalActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.AboutUsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.SearchTopicActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.AddNewTopicActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.TopicDisscussListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.AddTopicDisscussActivity2"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.DisscussConentListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MyCollectionActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.RankActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MineDeviceActivityNew"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.CommonWebViewActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.WelfareLotteryActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.PedometerActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.MyLotteryActivity"
+            android:process=":webview"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.TestActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.MsgSettingActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.TestImagePickerActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.setting.SettingNewsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.etcomm.dcare.app.activity.SharetoGroupActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <data android:scheme="tencent100371282" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- 调用新浪原生SDK，需要注册的回调activity -->
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.photoselector.ui.PhotoSelectorActivity"
+            android:label="图片选择"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.photoselector.ui.PhotoPreviewActivity"
+            android:label="图片预览"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 微信分享回调 -->
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name=".service.DcareNotificationListenerService"
+            android:label="@string/service_name"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" >
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".service.DcareService"
+            android:priority="1000"
+            android:process=":process1" />
+
+        <receiver android:name="IntentReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.SCREEN_ON" >
+                </action>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".service.Receiver1"
+            android:process=":process1" />
+
+        <service
+            android:name=".service.Service2"
+            android:process=":process2" />
+        <service android:name=".service.DispatchService" >
+        </service>
+        <service android:name="com.etcomm.dcare.bluetooth.BluetoothLeService" >
+        </service>
+        <service android:name=".service.UpdateDownloadApkService" >
+        </service>
+        <service android:name=".service.StepDataUploadService" >
+        </service>
+
+        <receiver
+            android:name="com.etcomm.dcare.service.BootBroadcastReceiver"
+            android:process=":process2" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.HOME" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.etcomm.dcare.service.ACTION_NOTIFyDATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 设置友盟分享的id -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="577f776467e58e01f3000507" >
+        </meta-data>
+
+        <!-- 个推SDK配置开始 -->
+        <!-- 配置的个推key测试属性 -->
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="YDTQYEZF7m9QmhPLvIqhZ3" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="htYzTT6MBp610A0j70e3b6" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="S3QQueSGiAAQgEleIWzRV9" />
+
+        <!-- 配置的个推key线上属性 -->
+
+
+        <!--
+        <meta-data
+            android:name="PUSH_APPID"
+            android:value="wPqLbtMMS88qiGGSC66D4" />
+        <meta-data
+            android:name="PUSH_APPKEY"
+            android:value="9VkIpYYEsZ65vILcVj1OE3" />
+        <meta-data
+            android:name="PUSH_APPSECRET"
+            android:value="GseLR9vHbi5tFPDnabBzb5" />
+        -->
+
+
+        <!-- 配置第三方Receiver 线上 -->
+
+
+        <!--
+        <receiver
+            android:name="com.etcomm.dcare.service.PushDcareReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.wPqLbtMMS88qiGGSC66D4" />
+            </intent-filter>
+        </receiver>
+        -->
+
+
+        <!-- 配置第三方Receiver 测试 -->
+
+        <receiver
+            android:name="com.etcomm.dcare.service.PushDcareReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.YDTQYEZF7m9QmhPLvIqhZ3" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 配置SDK核心服务 -->
+        <service
+            android:name="com.igexin.sdk.PushService"
+            android:exported="true"
+            android:label="NotificationCenter"
+            android:process=":pushservice" >
+        </service>
+        <service
+            android:name="com.igexin.sdk.PushServiceUser"
+            android:exported="true"
+            android:label="NotificationCenterUser" >
+        </service>
+
+        <receiver android:name="com.igexin.sdk.PushReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITyCHANGE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="com.igexin.sdk.action.refreshls" />
+                <!-- 以下三项为可选的action声明，可大大提高service存活率和消息到达速度 -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.igexin.sdk.PushManagerReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.pushmanager" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.igexin.sdk.PushActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <service
+            android:name="com.igexin.download.DownloadService"
+            android:process=":pushservice" />
+
+        <receiver android:name="com.igexin.download.DownloadReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITyCHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.igexin.download.DownloadProvider"
+            android:authorities="downloads.com.etcomm.dcare"
+            android:exported="true"
+            android:process=":pushservice" />
+
+        <activity
+            android:name="com.igexin.getuiext.activity.GetuiExtActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:process=":pushservice"
+            android:taskAffinity="android.task.myServicetask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.igexin.sdk.GActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:process=":pushservice"
+            android:taskAffinity="com.igexin.sdk.PushActivityTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 原有属性 -->
+
+
+        <!--
+        <receiver
+            android:name="com.igexin.getuiext.service.PayloadReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.7fjUl2Z3LH6xYy7NQK4ni4" />
+                <action android:name="com.igexin.sdk.action.wPqLbtMMS88qiGGSC66D4" />
+            </intent-filter>
+        </receiver>
+        -->
+
+
+        <!-- 测试环境 -->
+
+        <receiver
+            android:name="com.igexin.getuiext.service.PayloadReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.igexin.sdk.action.7fjUl2Z3LH6xYy7NQK4ni4" />
+                <action android:name="com.igexin.sdk.action.YDTQYEZF7m9QmhPLvIqhZ3" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.igexin.getuiext.service.GetuiExtService"
+            android:process=":pushservice" />
+
+        <!-- 个推SDK配置结束 -->
+
+        <service android:name="com.etcomm.dcare.app.services.BluetoothService" >
+        </service>
+    </application>
+
+</manifest>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\sdlv.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="164b7d6768d084f99cac0a00cda340024469212d">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\sdlv_bf397431d788b27cf47c31c6ba377a7e15851d34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_49775841abb1e95205bda9f3ec69acedae00d1e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\Android_iwown_Ble.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffdb2eefbe7207390ed6dbcce3b7d4680f6a09d1">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\Android_iwown_Ble_089f135e2db8fc0373de3d32b4f88cdd1827f436.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\microlog4android-1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2612759eba0e1da035e939922440bb4ef83972df">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\microlog4android-1.1_01b9b9aea93d450a167a07b63968d28cdb88d534.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\GetuiExt-2.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\GetuiExt-2.0.3_7ca22e77d831c61b523b0df1e91bd91b7a609101.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-SinaWeibo-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b8bb70e046a3d1a2ebcdcb55a46ee9970b8d80b">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.5_99406699db37ccd8a27ea26cda340518d6fb5f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_b590790b1499f762e6ea859f4f3cfbac51e905fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\MobCommons.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f89584e671c06a7c7f2b1029456b0fdd4335171f">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\MobCommons_d7797f3d5c04d588cba9f0a2978f488582592857.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\jars\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d611bb90fa7a3bb66d49cfc18190a59c4f6631a">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-with-sources_80992311a603c42d42e2849efb94632fb648f2cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\Dcarecom.loopj.android.http\unspecified\jars\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e589d96d2317d8e6106591d21e896dac1ba0ac0">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\httpclient-4.3.6_c252f7ec2d454adb10a6f559b2bb167976e2e002.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_0d1c7eacae11fdbf572b991a2fe6fa4cface131d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\joda-time-2.9.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5443ee2a55f29f8ba7e8fed463d9c53e1fd45dd">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\joda-time-2.9.1_d0f142e1db47c72f6621e76ec9ab6bab2546e961.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\MobTools.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6500c123b711a614351dec62ac91463d6fd1d1a3">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\MobTools_1a56169fc84149ab15a09e196e85bcbd897831c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-Wechat-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b052f69d45e5adf9adb887053ae844c9c638b63f">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.5_7287f5241c4e1cf7e3df57859de086fb783d492c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\bugly_crash_release__2.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e05723102827b099c1a69bc354345629adfa1091">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\bugly_crash_release__2.1.1_8db18ab355f817b565cc6e9881dbf11237f5b8a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-Core-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eddb7bb8000bacadc595176dba1d3ac6d78d2943">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.5_1749bcec6a2f18298b4f9aa1d9bdbb268e59c884.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c5dd052d074b0d96e805bc12a935c9793641dbe">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_47dfe03a57c6e8403f07c212873189b35855009a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_062ad37633a99321e6a59b7344ab769e17e3db55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fa6cdb4fae49790dc9bd1c939dd209fd94b7c07">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\instant-run_b96fce6da1f1e868fd9dd49963042a7448a1c4fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\GetuiSDK2.7.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de9bd9eedb38574a7741b18e34fc9e1f1ca0bc7b">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\GetuiSDK2.7.0.0_77c0ca0776924c02afa3440db9592c4689b19f01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_955d31192032a41d067e937d762b4dac4a72ff0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-QQ-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d11fa625500c376316f170fa88db2d490bdcfe36">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.5_cb3b77e1e7dc023d4a696b2a3f167ee5f6a74898.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\marsdaemonlib.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c67f5b4147b59f9bef3150dc43f46d2c131acab">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\marsdaemonlib_7b73f1585562db1012debfd99665f7814c8c3b64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ormlite-android-4.48.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ormlite-android-4.48_515497deedc191d8a40e2433aeaa45c3b8aa5fb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\commons-lang3-3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\commons-lang3-3.1_f75a373c4cf70a7c4707d67f332ad55f1aad8a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca647336bd736cb9d3aeb20f4714427bdf100c96">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\umeng_social_sdk_6fcba5f386bd9055aa6eeb9c325c11d9ee1d68fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\fastjson-1.2.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a5c721e8ea1e18854272879d6ed2770d25feb342">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\fastjson-1.2.7_63cfd1eb0e43441552ddf1cb32706d42611efec3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="33d23ce3726ac66ecb1f3aa0be5be729b8182c41">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-pedometerservice-release_f6bb09c0b16555f42c36da31ff85aa89a6d7d361.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-QZone-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="666f431fd1f77d7fd67deca6802c2a8e8e6a4500">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.5_cbffea75aca953637db2755bced70d63a4e1b33c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-Wechat-Core-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="158796f5d03642141aeb87176152f513a6ae2734">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.5_3372b1c7e02956ef852462023270df16e3f996ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-Wechat-Moments-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef808de23dbf4d18312d7bbd790f1511957202bc">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.5_5d8bf9781f30f7341b2ed20d3714684edb331a21.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\butterknife-7.0.1_e3e6b2751a7451a2534701dea29b15b79569d611.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0aa143e88ec372713794597f23689e2666a474b8">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bec0f1a359ec7bce44536a184cd5423531fd1b5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ormlite-core-4.48.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ormlite-core-4.48_aa4d9c7c3fa6c7c28504092b908cbb1d39f96b80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\libs\ShareSDK-Wechat-Favorite-2.6.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5610297fa6df6a8c3baabe70067448b261cd88c">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.5_56bcd53526b565d34a0cbeeee95becacb912ff37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.github.satyan\sugar\1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\pre-dexed\debug\com.github.satyan-sugar-1.5_2ad545a356b1f3019b10bdd99a310c7bb654ac67.jar" />
+    </item>
+
+</items>

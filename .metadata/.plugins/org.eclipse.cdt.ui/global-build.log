@@ -1,0 +1,183 @@
+10:51:35 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:51:37 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:51:38 **** Clean-only build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" clean 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:51:48 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:57:06 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:57:42 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+10:59:05 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:00:08 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:00:56 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:02:08 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:03:18 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:03:41 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:04:27 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:05:23 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:06:48 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:07:21 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:09:41 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:13:06 **** Clean-only build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" clean 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:14:59 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:18:37 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:22:26 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:23:01 **** Clean-only build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" clean 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:25:19 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:38:50 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:45:58 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:47:18 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:47:28 **** Clean-only build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" clean 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:48:07 **** Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:51:29 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:52:04 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+11:52:50 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+12:00:37 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+12:04:26 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+13:58:28 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+15:30:24 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+15:31:05 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+15:33:47 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+15:39:22 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+16:08:57 **** Incremental Build of configuration Default for project DcareServerVolly ****
+sh "\\ndk-build" all 
+/usr/bin/bash: \ndk-build: No such file or directory
+16:10:23 **** Incremental Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+Android NDK: ERROR:jni/Android.mk:daemon_api20: LOCAL_SRC_FILES points to a missing file    
+F:/android-ndk-r10e/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: Check that jni/libdaemon_api20.so exists  or that its path is correct   
+16:10:47 **** Incremental Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+Android NDK: ERROR:jni/Android.mk:daemon_api20: LOCAL_SRC_FILES points to a missing file    
+F:/android-ndk-r10e/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: Check that jni/libdaemon_api20.so exists  or that its path is correct   
+16:14:15 **** Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+Android NDK: ERROR:jni/Android.mk:daemon_api20: LOCAL_SRC_FILES points to a missing file    
+F:/android-ndk-r10e/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: Check that jni/libdaemon_api20.so exists  or that its path is correct   
+16:14:51 **** Incremental Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+Android NDK: ERROR:jni/Android.mk:daemon_api20: LOCAL_SRC_FILES points to a missing file    
+F:/android-ndk-r10e/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: Check that jni/libdaemon_api20.so exists  or that its path is correct   
+16:18:43 **** Incremental Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+F:/android-ndk-r10e/build/core/prebuilt-shared-library.mk:27: F:/android-ndk-r10e/build/core/prebuilt-library.mk: No such file or directory
+F:/android-ndk-r10e/build/core/prebuilt-shared-library.mk:27: F:/android-ndk-r10e/build/core/prebuilt-library.mk: No such file or directory
+F:/android-ndk-r10e/build/core/prebuilt-shared-library.mk:27: F:/android-ndk-r10e/build/core/prebuilt-library.mk: No such file or directory
+F:/android-ndk-r10e/build/core/prebuilt-shared-library.mk:27: F:/android-ndk-r10e/build/core/prebuilt-library.mk: No such file or directory
+make.exe: *** No rule to make target `F:/android-ndk-r10e/build/core/prebuilt-library.mk'.  Stop.
+16:21:25 **** Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+F:/android-ndk-r10e/build/core/prebuilt-library.mk:45: *** Android NDK: Aborting    .  Stop.
+Android NDK: ERROR:jni/Android.mk:daemon_api20: LOCAL_SRC_FILES points to a missing file    
+Android NDK: Check that jni/libdaemon_api20.so exists  or that its path is correct   
+16:23:50 **** Incremental Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+[armeabi] Prebuilt       : libBugly.so <= jni/
+[armeabi] Install        : libBugly.so => libs/armeabi/libBugly.so
+[armeabi] Compile thumb  : daemon <= daemon.c
+[armeabi] Executable     : daemon
+[armeabi] Install        : daemon => libs/armeabi/daemon
+[armeabi] Prebuilt       : libdaemon_api20.so <= jni/
+[armeabi] Install        : libdaemon_api20.so => libs/armeabi/libdaemon_api20.so
+[armeabi] Prebuilt       : libdaemon_api21.so <= jni/
+[armeabi] Install        : libdaemon_api21.so => libs/armeabi/libdaemon_api21.so
+[armeabi] Compile++ thumb: dcare <= com_etcomm_dcare_Watcher.cpp
+In file included from jni/com_etcomm_dcare_Watcher.cpp:1:0:
+jni/com_etcomm_dcare_Watcher.cpp: In function 'jboolean Java_com_etcomm_dcare_Watcher_startSensorManager(JNIEnv*, jobject)':
+jni/process.h:20:76: warning: format '%lld' expects argument of type 'long long int', but argument 4 has type 'long int' [-Wformat=]
+ #define LOGE(...) __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__)
+                                                                            ^
+jni/com_etcomm_dcare_Watcher.cpp:205:2: note: in expansion of macro 'LOGE'
+  LOGE("c/c++ program: %lld", getCurrentTime());
+  ^
+[armeabi] Compile++ thumb: dcare <= process.cpp
+[armeabi] StaticLibrary  : libstdc++.a
+[armeabi] SharedLibrary  : libdcare.so
+[armeabi] Install        : libdcare.so => libs/armeabi/libdcare.so
+[armeabi] Prebuilt       : libgetuiext.so <= jni/
+[armeabi] Install        : libgetuiext.so => libs/armeabi/libgetuiext.so
+09:58:50 **** Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+[armeabi] Install        : libBugly.so => libs/armeabi/libBugly.so
+[armeabi] Install        : daemon => libs/armeabi/daemon
+[armeabi] Install        : libdaemon_api20.so => libs/armeabi/libdaemon_api20.so
+[armeabi] Install        : libdaemon_api21.so => libs/armeabi/libdaemon_api21.so
+[armeabi] Install        : libdcare.so => libs/armeabi/libdcare.so
+[armeabi] Install        : libgetuiext.so => libs/armeabi/libgetuiext.so

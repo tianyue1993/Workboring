@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="pedometerservice-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DcareServerVolly/build/intermediates/exploded-aar/pedometerservice-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/DcareServerVolly/build/intermediates/exploded-aar/pedometerservice-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

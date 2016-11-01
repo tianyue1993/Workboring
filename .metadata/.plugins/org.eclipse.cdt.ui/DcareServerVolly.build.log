@@ -1,0 +1,11 @@
+09:58:50 **** Build of configuration Default for project DcareServerVolly ****
+"F:\\android-ndk-r10e\\ndk-build.cmd" all 
+[armeabi] Install        : libBugly.so => libs/armeabi/libBugly.so
+[armeabi] Install        : daemon => libs/armeabi/daemon
+[armeabi] Install        : libdaemon_api20.so => libs/armeabi/libdaemon_api20.so
+[armeabi] Install        : libdaemon_api21.so => libs/armeabi/libdaemon_api21.so
+[armeabi] Install        : libdcare.so => libs/armeabi/libdcare.so
+[armeabi] Install        : libgetuiext.so => libs/armeabi/libgetuiext.so
+
+09:58:54 Build Finished (took 3s.859ms)
+

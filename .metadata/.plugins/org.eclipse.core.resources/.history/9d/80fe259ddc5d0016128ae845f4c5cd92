@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/etcomm/dcare/ChangeNickNameActivity.java=UTF-8
+encoding//src/com/etcomm/dcare/CrashHandler.java=UTF-8
+encoding//src/com/etcomm/dcare/ImagePickBaseActivity.java=UTF-8
+encoding//src/com/etcomm/dcare/common/ACache.java=UTF-8
+encoding//src/com/etcomm/dcare/common/AppSharedPreferencesHelper.java=UTF-8
+encoding//src/com/etcomm/dcare/util/DensityUtil.java=UTF-8
+encoding//src/com/etcomm/dcare/util/NotifyUtil.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/AlertView.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/CircleImageView.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/CircleSeekBar.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/DialogFactory.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/ProgressSeekBar.java=UTF-8
+encoding//src/com/etcomm/dcare/widget/SystemTitle.java=UTF-8
+encoding//src/com/etcomm/dcare/wxapi/WXEntryActivity.java=UTF-8
