@@ -1,0 +1,1108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:2:1-558:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:4:5-31
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [WorkSpace:Dcarecom.loopj.android.http:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\Dcarecom.loopj.android.http\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [WorkSpace:DcareNetVolley:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcareNetVolley\unspecified\AndroidManifest.xml:7:5-43
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [WorkSpace:DcarePullTorefreshlibrary:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePullTorefreshlibrary\unspecified\AndroidManifest.xml:7:5-43
+MERGED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.github.satyan\sugar\1.5\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:9:9-35
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:13:5-67
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:18:5-81
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:21:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.GET_TOP_ACTIVITyINFO
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:25:5-65
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:25:22-62
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:26:5-85
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:26:22-82
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:28:22-72
+uses-permission#getui.permission.GetuiService.com.etcomm.dcare
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:32:22-83
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:34:5-36:36
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:17:5-60
+	android:required
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:36:9-33
+		MERGED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:35:9-47
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:39:22-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:41:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:41:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:43:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:52:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:53:5-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:53:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:55:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:55:22-78
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:57:5-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:57:22-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:58:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:58:22-75
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:60:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:60:22-71
+application
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:63:5-556:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [WorkSpace:Dcarecom.loopj.android.http:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\Dcarecom.loopj.android.http\unspecified\AndroidManifest.xml:11:5-16:19
+MERGED from [WorkSpace:DcareNetVolley:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcareNetVolley\unspecified\AndroidManifest.xml:9:5-20
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:20:5-35:19
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [WorkSpace:DcarePullTorefreshlibrary:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePullTorefreshlibrary\unspecified\AndroidManifest.xml:9:5-20
+MERGED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:11:5-69:19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:67:9-41
+	android:supportsRtl
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:65:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:66:9-38
+		REJECTED from [WorkSpace:Dcarecom.loopj.android.http:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\Dcarecom.loopj.android.http\unspecified\AndroidManifest.xml:13:9-45
+		REJECTED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:22:9-45
+	android:largeHeap
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:68:9-33
+	android:persistent
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:69:9-34
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:70:9-40
+		REJECTED from [WorkSpace:Dcarecom.loopj.android.http:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\Dcarecom.loopj.android.http\unspecified\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:71:9-52
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:64:9-52
+activity#com.etcomm.dcare.SplashActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:72:9-83:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:74:13-45
+	android:persistent
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:75:13-38
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:76:13-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:73:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:80:27-74
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:84:9-87:54
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:86:13-46
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:87:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:85:13-72
+activity#wxapi.WXEntryActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:88:9-93:75
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:92:13-49
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:91:13-36
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:90:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:93:13-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:89:13-49
+activity#com.etcomm.dcare.MainActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:94:9-97:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:97:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:96:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:95:13-57
+activity#com.etcomm.dcare.ShareActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:98:9-100:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:99:13-58
+activity#com.etcomm.dcare.app.base.BaseActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:101:9-103:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:102:13-66
+activity#com.etcomm.dcare.BaseFragmentActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:104:9-106:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:105:13-65
+activity#com.etcomm.dcare.app.activity.login.ChangePasswordActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:107:9-109:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:108:13-86
+activity#com.etcomm.dcare.app.activity.login.ChangePasswordActivityNew
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:110:9-112:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:111:13-89
+activity#com.etcomm.dcare.app.activity.login.ChooseComStructureActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:113:9-115:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:114:13-90
+activity#com.etcomm.dcare.EnterAgeWeightHeightActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:116:9-118:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:117:13-73
+activity#com.etcomm.dcare.app.activity.login.EnterpriseActivationActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:119:9-121:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:120:13-92
+activity#com.etcomm.dcare.app.activity.login.ForgotPasswordActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:122:9-125:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:125:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:123:13-86
+activity#com.etcomm.dcare.app.activity.login.ForgotPasswordActivityNew
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:126:9-129:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:129:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:128:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:127:13-89
+activity#com.etcomm.dcare.app.activity.login.LoginActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:130:9-133:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:133:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:131:13-77
+activity#com.etcomm.dcare.app.activity.login.LoginActivityNew
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:134:9-137:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:137:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:136:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:135:13-80
+activity#com.etcomm.dcare.app.activity.login.RegisterActivityNew
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:138:9-141:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:141:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:140:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:139:13-83
+activity#com.etcomm.dcare.app.activity.login.RegisterActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:142:9-145:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:145:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:144:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:143:13-80
+activity#com.etcomm.dcare.ShowAlartViewBaseActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:146:9-148:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:148:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:147:13-70
+activity#com.etcomm.dcare.SportRecommandActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:149:9-151:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:151:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:150:13-67
+activity#com.etcomm.dcare.app.activity.setting.EnterUserNameChooseAvatarActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:152:9-154:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:154:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:153:13-99
+activity#com.etcomm.dcare.TrendRecordActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:155:9-158:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:157:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:156:13-64
+activity#com.etcomm.dcare.ExamineReportActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:159:9-162:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:161:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:162:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:160:13-66
+activity#com.etcomm.dcare.BaseWebViewActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:163:9-166:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:165:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:166:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:164:13-64
+activity#com.etcomm.dcare.MineFeedBackActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:167:9-169:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:169:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:168:13-65
+activity#com.etcomm.dcare.MineSportsActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:170:9-172:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:172:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:171:13-63
+activity#com.etcomm.dcare.app.activity.setting.SettingActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:173:9-175:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:175:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:174:13-81
+activity#com.etcomm.dcare.HealthConsultActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:176:9-179:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:178:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:179:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:177:13-66
+activity#com.etcomm.dcare.PointsExchangeActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:180:9-182:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:182:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:181:13-67
+activity#com.etcomm.dcare.MyExchangeActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:183:9-185:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:185:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:184:13-63
+activity#com.etcomm.dcare.MsgListActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:186:9-188:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:188:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:187:13-60
+activity#com.etcomm.dcare.app.activity.SearchHealthNewsActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:189:9-191:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:191:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:190:13-82
+activity#com.etcomm.dcare.PointsColleketDetailActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:192:9-195:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:194:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:195:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:193:13-73
+activity#com.etcomm.dcare.MyPointsDetailActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:197:9-199:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:199:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:198:13-67
+activity#com.etcomm.dcare.CompanyWelfareActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:200:9-203:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:202:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:203:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:201:13-67
+activity#com.etcomm.dcare.CompanyWelfareListActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:204:9-206:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:206:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:205:13-71
+activity#com.etcomm.dcare.SuggestSportDetailActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:207:9-209:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:209:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:208:13-71
+activity#com.etcomm.dcare.HealthConsultListActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:210:9-212:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:212:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:211:13-70
+activity#com.etcomm.dcare.app.activity.setting.RelateWorkNumberActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:213:9-215:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:215:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:214:13-90
+activity#com.etcomm.dcare.app.activity.setting.SettingPersonalDataActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:216:9-218:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:218:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:217:13-93
+activity#com.etcomm.dcare.app.activity.setting.SelectSexPopupWindowActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:219:9-222:67
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:221:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:222:13-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:220:13-94
+activity#com.etcomm.dcare.app.activity.setting.ChangeNickNameActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:223:9-225:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:225:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:224:13-88
+activity#com.etcomm.dcare.app.activity.setting.AgeActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:226:9-228:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:228:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:227:13-77
+activity#com.etcomm.dcare.app.activity.setting.BindHcActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:229:9-232:73
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:231:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:232:13-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:230:13-80
+activity#com.etcomm.dcare.app.activity.setting.SelectPicPopupWindowActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:233:9-236:67
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:235:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:236:13-55
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:234:13-94
+activity#com.etcomm.dcare.app.activity.setting.HeightActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:237:9-239:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:239:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:238:13-80
+activity#com.etcomm.dcare.app.activity.setting.WeightActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:240:9-242:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:242:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:241:13-80
+activity#com.etcomm.dcare.DepartMentActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:243:9-245:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:245:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:244:13-63
+activity#com.etcomm.dcare.app.activity.setting.SettingSportGoalActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:246:9-248:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:248:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:247:13-90
+activity#com.etcomm.dcare.app.activity.setting.AboutUsActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:249:9-251:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:251:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:250:13-81
+activity#com.etcomm.dcare.SearchTopicActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:252:9-254:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:254:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:253:13-64
+activity#com.etcomm.dcare.AddNewTopicActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:255:9-257:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:257:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:256:13-64
+activity#com.etcomm.dcare.TopicDisscussListActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:258:9-260:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:260:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:259:13-70
+activity#com.etcomm.dcare.AddTopicDisscussActivity2
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:261:9-263:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:263:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:262:13-70
+activity#com.etcomm.dcare.DisscussConentListActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:264:9-266:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:266:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:265:13-71
+activity#com.etcomm.dcare.MyCollectionActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:267:9-269:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:269:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:268:13-65
+activity#com.etcomm.dcare.RankActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:270:9-273:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:272:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:273:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:271:13-57
+activity#com.etcomm.dcare.MineDeviceActivityNew
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:274:9-276:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:276:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:275:13-66
+activity#com.etcomm.dcare.CommonWebViewActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:277:9-280:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:279:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:280:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:278:13-66
+activity#com.etcomm.dcare.WelfareLotteryActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:281:9-284:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:283:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:284:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:282:13-67
+activity#com.etcomm.dcare.PedometerActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:285:9-287:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:287:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:286:13-62
+activity#com.etcomm.dcare.MyLotteryActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:288:9-291:61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:290:13-39
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:291:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:289:13-62
+activity#com.etcomm.dcare.TestActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:292:9-294:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:294:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:293:13-57
+activity#com.etcomm.dcare.app.activity.setting.MsgSettingActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:295:9-297:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:297:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:296:13-84
+activity#com.etcomm.dcare.TestImagePickerActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:298:9-300:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:300:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:299:13-68
+activity#com.etcomm.dcare.app.activity.setting.SettingNewsActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:301:9-303:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:303:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:302:13-85
+activity#com.etcomm.dcare.app.activity.SharetoGroupActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:304:9-306:61
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:306:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:305:13-78
+activity#com.mob.tools.MobUIShell
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:307:9-327:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:310:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:312:13-67
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:309:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:311:13-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:308:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:313:13-320:29
+data
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:314:17-59
+	android:scheme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:314:23-56
+action#android.intent.action.VIEW
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:316:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:316:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:318:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:318:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:319:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:319:27-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:322:13-326:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:323:17-92
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:323:25-89
+activity#com.photoselector.ui.PhotoSelectorActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:328:9-331:61
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:23:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:331:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:330:13-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:329:13-70
+activity#com.photoselector.ui.PhotoPreviewActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:332:9-335:61
+MERGED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:27:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:335:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:334:13-33
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:333:13-69
+activity#com.etcomm.dcare.wxapi.WXEntryActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:337:9-342:75
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:341:13-49
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:340:13-36
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:339:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:342:13-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:338:13-50
+service#com.etcomm.dcare.service.DcareNotificationListenerService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:344:9-351:19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:346:13-49
+	android:permission
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:347:13-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:345:13-69
+intent-filter#android.service.notification.NotificationListenerService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:348:13-350:29
+action#android.service.notification.NotificationListenerService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:349:17-99
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:349:25-96
+service#com.etcomm.dcare.service.DcareService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:352:9-355:43
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:355:13-40
+	android:priority
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:354:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:353:13-49
+receiver#com.etcomm.dcare.service.Receiver1
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:357:9-359:43
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:359:13-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:358:13-46
+service#com.etcomm.dcare.service.Service2
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:361:9-363:43
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:363:13-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:362:13-45
+service#com.etcomm.dcare.service.DispatchService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:364:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:364:18-57
+service#com.etcomm.dcare.bluetooth.BluetoothLeService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:365:9-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:365:18-78
+service#com.etcomm.dcare.service.UpdateDownloadApkService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:366:9-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:366:18-66
+service#com.etcomm.dcare.service.StepDataUploadService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:367:9-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:367:18-63
+receiver#com.etcomm.dcare.service.StepReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:369:9-380:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:371:13-37
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:370:13-49
+intent-filter#me.chunyu.pedometer.accelerate_sensor_value_filter+me.chunyu.pedometer.step_counter_sensor_value_filter+me.chunyu.pedometer.time_change_filter
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:372:13-379:29
+action#me.chunyu.pedometer.step_counter_sensor_value_filter
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:374:17-95
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:374:25-92
+action#me.chunyu.pedometer.accelerate_sensor_value_filter
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:376:17-93
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:376:25-90
+action#me.chunyu.pedometer.time_change_filter
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:378:17-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:378:25-78
+receiver#com.etcomm.dcare.service.BootBroadcastReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:382:9-393:20
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:384:13-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:383:13-74
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:385:13-389:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:386:17-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:386:25-76
+category#android.intent.category.HOME
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:388:17-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:388:27-70
+intent-filter#com.etcomm.dcare.service.ACTION_NOTIFyDATE_CHANGED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:390:13-392:29
+action#com.etcomm.dcare.service.ACTION_NOTIFyDATE_CHANGED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:391:17-93
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:391:25-90
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:396:9-398:66
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:398:13-53
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:397:13-40
+meta-data#PUSH_APPID
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:402:9-404:54
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:404:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:403:13-38
+meta-data#PUSH_APPKEY
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:405:9-407:54
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:407:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:406:13-39
+meta-data#PUSH_APPSECRET
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:408:9-410:54
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:410:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:409:13-42
+receiver#com.etcomm.dcare.service.PushDcareReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:444:9-450:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:446:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:445:13-70
+intent-filter#com.igexin.sdk.action.YDTQYEZF7m9QmhPLvIqhZ3
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:447:13-449:29
+action#com.igexin.sdk.action.YDTQYEZF7m9QmhPLvIqhZ3
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:448:17-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:448:25-84
+service#com.igexin.sdk.PushService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:453:9-457:54
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:457:13-43
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:456:13-47
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:455:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:454:13-54
+service#com.igexin.sdk.PushServiceUser
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:458:9-461:62
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:461:13-51
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:460:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:459:13-58
+receiver#com.igexin.sdk.PushReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:463:9-474:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:463:19-61
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITyCHANGE+com.igexin.sdk.action.refreshls
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:464:13-473:29
+action#android.net.conn.CONNECTIVITyCHANGE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:466:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:466:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:467:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:467:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:468:17-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:468:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:470:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:470:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:471:17-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:471:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:472:17-90
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:472:25-87
+receiver#com.igexin.sdk.PushManagerReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:475:9-481:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:477:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:476:13-62
+intent-filter#com.igexin.sdk.action.pushmanager
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:478:13-480:29
+action#com.igexin.sdk.action.pushmanager
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:479:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:479:25-73
+activity#com.igexin.sdk.PushActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:483:9-489:84
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:487:13-43
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:485:13-46
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:486:13-37
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:489:13-72
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:488:13-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:484:13-55
+service#com.igexin.download.DownloadService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:491:9-493:46
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:493:13-43
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:492:13-63
+receiver#com.igexin.download.DownloadReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:495:9-499:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:495:19-70
+intent-filter#android.net.conn.CONNECTIVITyCHANGE
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:496:13-498:29
+provider#com.igexin.download.DownloadProvider
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:501:9-505:46
+	android:authorities
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:503:13-61
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:505:13-43
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:504:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:502:13-64
+activity#com.igexin.getuiext.activity.GetuiExtActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:507:9-514:75
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:512:13-43
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:510:13-46
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:511:13-37
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:509:13-72
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:514:13-72
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:513:13-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:508:13-73
+activity#com.igexin.sdk.GActivity
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:515:9-521:75
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:519:13-43
+	android:excludeFromRecents
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:517:13-46
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:518:13-36
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:521:13-72
+	android:taskAffinity
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:520:13-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:516:13-52
+receiver#com.igexin.getuiext.service.PayloadReceiver
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:540:9-547:20
+	android:exported
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:542:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:541:13-71
+intent-filter#com.igexin.sdk.action.7fjUl2Z3LH6xYy7NQK4ni4+com.igexin.sdk.action.YDTQYEZF7m9QmhPLvIqhZ3
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:543:13-546:29
+action#com.igexin.sdk.action.7fjUl2Z3LH6xYy7NQK4ni4
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:544:17-87
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:544:25-84
+service#com.igexin.getuiext.service.GetuiExtService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:549:9-551:46
+	android:process
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:551:13-43
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:550:13-71
+service#com.etcomm.dcare.app.services.BluetoothService
+ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:555:9-90
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\AndroidManifest.xml:555:18-79
+uses-feature#android.hardware.camera.autofocus
+ADDED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:18:19-67
+activity#com.photoselector.ui.PhotoSelectorPreview
+ADDED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from [WorkSpace:DcarePhotoSelector:unspecified] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\WorkSpace\DcarePhotoSelector\unspecified\AndroidManifest.xml:32:13-69
+meta-data#DATABASE
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:19:9-21:51
+	android:value
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:21:13-48
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:20:13-36
+meta-data#VERSION
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:24:9-26:33
+	android:value
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:26:13-30
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:25:13-35
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:27:9-29:67
+	android:value
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:29:13-64
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:28:13-47
+service#me.chunyu.pedometerservice.PedometerCounterService
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:32:13-78
+receiver#me.chunyu.pedometerservice.receivers.TimerReceiver
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:35:9-45:20
+	android:exported
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:36:13-78
+intent-filter#android.intent.action.DATE_CHANGED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET+me.chunyu.pedometer.midnight_alarm_filter+me.chunyu.pedometer.service_alive_alarm_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:38:13-44:29
+action#me.chunyu.pedometer.midnight_alarm_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:39:17-84
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:39:25-81
+action#me.chunyu.pedometer.service_alive_alarm_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:40:17-89
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:40:25-86
+action#android.intent.action.DATE_CHANGED
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:41:25-74
+action#android.intent.action.TIME_SET
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:42:17-73
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:42:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:43:17-81
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:43:25-78
+receiver#me.chunyu.pedometerservice.receivers.SystemReceiver
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:46:9-59:20
+	android:exported
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:47:13-79
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BATTERY_CHANGED+android.intent.action.BATTERY_LOW+android.intent.action.BATTERY_OKAY+android.intent.action.BOOT_COMPLETED+android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:49:13-58:29
+action#android.intent.action.BATTERY_LOW
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:53:25-73
+action#android.intent.action.BATTERY_CHANGED
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:54:25-77
+action#android.intent.action.BATTERY_OKAY
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:55:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:56:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:57:17-78
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:57:25-75
+receiver#me.chunyu.pedometerservice.receivers.ParameterReceiver
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:60:9-68:20
+	android:exported
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:61:13-82
+intent-filter#me.chunyu.pedometer.algorithm_set_parameters_filter+me.chunyu.pedometer.set_motion_time_filter+me.chunyu.pedometer.set_offset_data_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:63:13-67:29
+action#me.chunyu.pedometer.set_offset_data_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:64:17-85
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:64:25-82
+action#me.chunyu.pedometer.set_motion_time_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:65:17-85
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:65:25-82
+action#me.chunyu.pedometer.algorithm_set_parameters_filter
+ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:66:17-94
+	android:name
+		ADDED from [:pedometerservice-release:] C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\intermediates\exploded-aar\pedometerservice-release\AndroidManifest.xml:66:25-91

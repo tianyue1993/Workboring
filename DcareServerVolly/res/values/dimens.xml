@@ -1,0 +1,84 @@
+<resources>
+
+    <!--  -->
+
+    <dimen name="marginlargehuge">50dp</dimen>
+    <dimen name="marginhuge">30dp</dimen>
+    <dimen name="marginlarge">20dp</dimen>
+    <dimen name="marginmiddle">15dp</dimen>
+    <dimen name="marginsmall">10dp</dimen>
+    <dimen name="marginlittle">5dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="def_wheel_width">32dp</dimen>
+    <dimen name="def_shadow_radius">2dp</dimen>
+    <dimen name="def_shadow_offset">2dp</dimen>
+    <!-- 登陆头像图 -->
+    <dimen name="login_photo_width">120.0dip</dimen>
+    <dimen name="login_photo_height">120.0dip</dimen>
+    <!-- 标题栏   标题字号 -->
+    <dimen name="common_title_textsize">18sp</dimen>
+    <dimen name="common_title_righttext_textsize">14sp</dimen>
+    <dimen name="default_edit_height">45dip</dimen>
+    <dimen name="default_edit_padding_left">10dip</dimen>
+    <dimen name="default_edit_padding_right">10dip</dimen>
+    <dimen name="default_edit_textsize">16dip</dimen>
+    <dimen name="default_btn_height">42dip</dimen>
+    <dimen name="default_btn_textsize">21sp</dimen>
+    <!-- 标题文字大小 -->
+    <dimen name="textSize_alert_title">22sp</dimen>
+    <dimen name="textSize_actionsheet_title">14sp</dimen>
+    <!-- 标题文字高度 -->
+    <dimen name="height_alert_title">60dp</dimen>
+    <dimen name="height_actionsheet_title">40dp</dimen>
+    <!-- 消息文字大小 -->
+    <dimen name="textSize_alert_msg">15sp</dimen>
+    <dimen name="textSize_actionsheet_msg">14sp</dimen>
+    <!-- 消息距离底部间距 -->
+    <dimen name="marginBottom_alert_msg">25dp</dimen>
+    <dimen name="marginBottom_actionsheet_msg">14dp</dimen>
+    <!-- 窗口模式左右两边到屏幕的间距 -->
+    <dimen name="margin_alert_left_right">40dp</dimen>
+    <dimen name="margin_actionsheet_left_right">10dp</dimen>
+    <!-- 线条粗细 -->
+    <dimen name="size_divier">1dp</dimen>
+    <!-- 按钮的高度 -->
+    <dimen name="height_alert_button">48dp</dimen>
+    <!-- 按钮文字大小 -->
+    <dimen name="textSize_alert_button">18sp</dimen>
+    <!-- 圆角 -->
+    <dimen name="radius_alertview">15px</dimen>
+
+    <!-- title -->
+    <dimen name="title_height">58dip</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="title_sec_text_size">16sp</dimen>
+    <dimen name="title_third_text_size">14sp</dimen>
+    <dimen name="title_padding_left">10dip</dimen>
+    <dimen name="title_padding_right">10dip</dimen>
+    <dimen name="title_text_max_width">20dip</dimen>
+    <dimen name="title_sec_padding">4dip</dimen>
+    <dimen name="login_margin_top">33.0dip</dimen>
+    <dimen name="login_input_margin_top">20.0dip</dimen>
+    <dimen name="login_input_margin">14.0dip</dimen>
+    <dimen name="regist_forget_pwd_margin_left">35.0dip</dimen>
+    <dimen name="regist_forget_pwd_margin_right">35.0dip</dimen>
+    <dimen name="regist_forget_pwd_margin_top">28.0dip</dimen>
+    <dimen name="bottom_menu_btn_margin_top">22dip</dimen>
+
+    <!-- common dialog -->
+    <dimen name="common_dialog_width">230dip</dimen>
+    <dimen name="common_dialog_msg_height">90dip</dimen>
+    <dimen name="common_dialog_btn_height">40dip</dimen>
+    <dimen name="common_dialog_msg_textsize">14sp</dimen>
+    <dimen name="common_dialog_btn_textsize">16sp</dimen>
+    <dimen name="setting_item_height">57dip</dimen>
+
+    <!--  -->
+    <dimen name="common_text_normal">16sp</dimen>
+    <dimen name="common_text_small">14sp</dimen>
+    <dimen name="common_text_mini">12sp</dimen>
+	<!-- 首页天气显示字体 autotext_textSize -->
+	<dimen name="autotext_textsize">4.5sp</dimen>
+</resources>

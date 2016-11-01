@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="50dp"
+    android:paddingBottom="@dimen/marginmiddle"
+    android:paddingLeft="@dimen/marginlargehuge"
+    android:paddingRight="@dimen/marginlargehuge"
+    android:paddingTop="@dimen/marginmiddle" >
+
+    <TextView
+        android:id="@+id/points_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:maxLength="4"
+        android:minWidth="65dp"
+        android:textColor="@color/common_black_text"
+        android:text="每日打卡" />
+
+    <ImageView
+        android:id="@+id/points_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textColor="@color/common_black_text"
+        android:layout_marginLeft="@dimen/marginmiddle"
+        android:layout_toRightOf="@+id/points_name"
+        android:src="@drawable/mine_goldpoints" />
+
+    <TextView
+        android:id="@+id/points_time"
+        android:layout_width="wrap_content"
+        android:textColor="@color/common_black_text"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="2015.11.18" />
+
+    <TextView
+        android:id="@+id/points_dec"
+        android:layout_width="wrap_content"
+        android:textColor="@color/common_black_text"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/marginmiddle"
+        android:layout_toLeftOf="@+id/points_time"
+        android:layout_toRightOf="@+id/points_image"
+        android:gravity="right"
+        android:text="+1分" />
+
+</RelativeLayout>

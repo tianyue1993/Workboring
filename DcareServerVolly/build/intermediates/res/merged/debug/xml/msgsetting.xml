@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="msg"
+    android:title="msg" >
+
+    <com.etcomm.dcare.widget.DcareSwitchPreference
+        android:icon="@drawable/messages"
+        android:key="msgtuisong"
+        android:order="1"
+        android:summaryOff="  "
+        android:summaryOn="  "
+        android:switchTextOff="  "
+        android:switchTextOn="  "
+        android:title="消息推送" />
+    <com.etcomm.dcare.widget.DcareSwitchPreference
+        android:icon="@drawable/messages"
+        android:key="msgdianzan"
+        android:order="2"
+        android:summaryOff="  "
+        android:summaryOn="  "
+        android:switchTextOff="  "
+        android:switchTextOn="  "
+        android:title="点赞提醒" />
+    <com.etcomm.dcare.widget.DcareSwitchPreference
+        android:icon="@drawable/messages"
+        android:key="msgpinglun"
+        android:order="3"
+        android:summaryOff="  "
+        android:summaryOn="  "
+        android:switchTextOff="  "
+        android:switchTextOn="  "
+        android:title="评论提醒" />
+
+</PreferenceScreen>

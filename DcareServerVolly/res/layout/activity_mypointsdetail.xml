@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical" >
+
+    <!--
+         <com.etcomm.dcare.widget.SimpleTitleBarWithRightText
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title" >
+    </com.etcomm.dcare.widget.SimpleTitleBarWithRightText>    -->
+
+    <RelativeLayout
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_bg_color" >
+
+        <ImageView
+            android:id="@+id/leftimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:padding="20dp"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/title_right_iv"
+            android:layout_toRightOf="@+id/leftimage"
+            android:ellipsize="end"
+            android:focusableInTouchMode="true"
+            android:gravity="center"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:maxEms="12"
+            android:singleLine="true"
+            android:text="设置超出11个长sdfasda度时显示省略号"
+            android:textColor="@color/commen_text_color"
+            android:textSize="@dimen/common_title_textsize" />
+
+        <ImageView
+            android:id="@+id/title_right_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/marginlarge"
+            android:paddingRight="@dimen/marginlarge"
+            android:src="@drawable/how_point_to" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/common_bg"
+        android:minHeight="50dp" >
+
+        <TextView
+            android:id="@+id/mytotalpoints"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/marginhuge"
+            android:drawableLeft="@drawable/mine_goldpoints"
+            android:drawablePadding="5dp"
+            android:text="累计积分:"
+            android:textColor="@color/common_black_text"
+           />
+
+        <TextView
+            android:id="@+id/howtoearnpoints"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/common_black_text"
+            android:layout_marginRight="@dimen/marginlargehuge"
+            android:drawableLeft="@drawable/mine_goldpoints"
+            android:drawablePadding="5dp"
+            android:text="可用积分:" />
+    </RelativeLayout>
+
+    <!--
+         <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey" />
+    -->
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/refreshlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/common_bg"
+        android:dividerPadding="@dimen/marginmiddle" />
+
+</LinearLayout>

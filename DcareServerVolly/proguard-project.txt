@@ -1,0 +1,274 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*  
+-optimizationpasses 5  
+-dontusemixedcaseclassnames  
+-dontskipnonpubliclibraryclasses  
+-dontpreverify  
+-dontskipnonpubliclibraryclassmembers  
+-verbose
+-keepattributes *Annotation*  
+-keepattributes Signature  
+-dontwarn com.umeng.**
+
+-keep public class * extends android.app.Fragment    
+-keep public class * extends android.app.Activity  
+-keep public class * extends android.support.v4.app.FragmentActivity
+-keep public class * extends android.app.Application  
+-keep public class * extends android.app.Service  
+-keep public class * extends android.content.BroadcastReceiver  
+-keep public class * extends android.content.ContentProvider  
+-keep public class * extends android.app.backup.BackupAgentHelper  
+-keep public class * extends android.preference.Preference  
+-keep public class * extends android.support.v4.**  
+-keep public class * extends android.support.v7.** 
+-keep class com.etcomm.dcare.app.common.DcareApplication
+-keep class com.etcomm.dcare.app.base.BaseActivity
+-keep class com.etcomm.dcare.Watcher
+-keep class com.etcomm.dcare.app.model.json.PedometerDataJson
+-keep class com.etcomm.dcare.app.model.PedometerItem
+
+-keep public class com.etcomm.dcare.netresponse.** { *; }
+-dontwarn com.etcomm.dcare.netresponse.**  
+-keep public class com.etcomm.dcare.ormlite.bean.** { *; }
+-dontwarn com.etcomm.dcare.ormlite.bean.**  
+-keep public class com.etcomm.dcare.data.** { *; }
+-dontwarn com.etcomm.dcare.data.**  
+
+-keep public class * extends android.widget.CompoundButton{
+    public *;
+}
+-keep class com.iwown.android_iwown_ble.** { *; }
+
+-libraryjars libs/Android_iwown_Ble.jar  
+-libraryjars libs/armeabi/libdcare.so  
+-libraryjars libs/armeabi/libgetuiext.so  
+-libraryjars libs/butterknife-7.0.1.jar  
+-libraryjars libs/fastjson-1.2.7.jar  
+-libraryjars libs/GetuiSDK2.7.0.0.jar  
+#-libraryjars libs/gson-2.2.4.jar  
+-libraryjars libs/joda-time-2.9.1.jar  
+-libraryjars libs/sdlv.jar  
+-libraryjars libs/marsdaemonlib.jar  
+-libraryjars libs/microlog4android-1.1.jar  
+-libraryjars libs/ormlite-android-4.48.jar  
+-libraryjars libs/ormlite-core-4.48.jar  
+
+-libraryjars libs/SocialSDK_WeiXin_1.jar  
+-libraryjars libs/SocialSDK_WeiXin_2.jar 
+-libraryjars libs/umeng_social_sdk.jar
+#-libraryjars libs/universal-image-loader-1.9.3-with-sources.jar  
+  
+ -libraryjars libs/ShareSDK-Core-2.6.5.jar   
+ -libraryjars libs/ShareSDK-QQ-2.6.5.jar   
+ -libraryjars libs/ShareSDK-QZone-2.6.5.jar   
+ -libraryjars libs/ShareSDK-SinaWeibo-2.6.5.jar   
+ -libraryjars libs/ShareSDK-Wechat-Core-2.6.5.jar   
+ -libraryjars libs/ShareSDK-Wechat-Favorite-2.6.5.jar   
+ -libraryjars libs/ShareSDK-Wechat-Moments-2.6.5.jar   
+
+-keepclassmembers class * {
+   public <init> (org.json.JSONObject);
+}
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+-keep public class [com.etcomm.dcare].R$*{
+public static final int *;
+}
+
+-keepattributes Singature    
+-keepattributes *Annotation  
+-dontwarn com.alibaba.fastjson.**      
+-keep class com.etcomm.dcare.app.model.** {*;}
+
+-keep class me.chunyu.pedometerservice.database.** { *; }
+ 
+-keep class com.alibaba.fastjson.** { *; }
+-keep public class * implements java.io.Serializable {
+        public *;
+}
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
+
+-keep class android.support.v4.** { *; }    
+-keep class android.support.v7.** { *; }  
+-dontwarn android.support.v4.**    
+-dontwarn android.support.v7.**   
+
+-keep class org.apache.** { *; }    
+-keep class com.tencent.** { *; }     
+-dontwarn org.apache.**   
+-dontwarn com.tencent.**    
+ 
+ -keep class com.loopj.android.http.** { *; } 
+-dontwarn com.loopj.android.http.**
+
+-dontwarn com.tencent.bugly.**
+-keep public class com.tencent.bugly.**{*;}
+
+-keep public class com.photoselector.* { public *; }
+-dontwarn com.photoselector.**
+
+-keep public class com.handmark.pulltorefresh.library.* { public *; }
+-dontwarn com.handmark.pulltorefresh.library.**
+
+-keep public class com.marswin89.marsdaemon.** { *; }
+-dontwarn com.marswin89.marsdaemon.**
+ 
+
+
+ 
+-keep class org.joda.** { *; } 
+-dontwarn org.joda.**
+-keep class com.alibaba.** {*;} 
+-dontwarn com.alibaba.**
+-keep class com.android.volley.** { *; }  
+-dontwarn com.android.volley.**
+-keep class com.google.common.** { *; }  
+-dontwarn com.google.common.**
+   
+-keep class com.igexin.** { *; }
+-dontwarn com.igexin.**
+
+-keep class com.ble.ble_fastcode.** { *; }
+-dontwarn com.ble.ble_fastcode.**
+ 
+ -keep class com.j256.ormlite.** { *; }    
+-keep class com.j256.ormlite.android.** { *; }    
+-keep class com.j256.ormlite.field.** { *; }    
+-keep class com.j256.ormlite.stmt.** { *; }   
+-keep class cn.sharesdk.onekeyshare.theme.skyblue.** { *; }    
+-keep class cn.sharesdk.onekeyshare.theme.skyblue.** { *; }   
+
+-keep class butterknife.** { *; }
+-dontwarn butterknife.internal.**
+-keep class **$$ViewBinder { *; }
+
+-keepclasseswithmembernames class * {
+    @butterknife.* <fields>;
+}
+
+-keepclasseswithmembernames class * {
+    @butterknife.* <methods>;
+}
+ -keep class com.mob.tools.network.** { *; }   
+-dontwarn com.mob.tools.network.**   
+ 
+ -keep class com.google.gson.JsonObject { *; }
+ 
+-keepclassmembers enum * {  
+   public static **[] values();  
+   public static ** valueOf(java.lang.String);  
+}  
+-keepclasseswithmembernames class * {  
+    native <methods>;  
+}  
+-keepclasseswithmembernames class * {  
+    public <init>(android.content.Context, android.util.AttributeSet);  
+}  
+  
+-keepclasseswithmembernames class * {  
+    public <init>(android.content.Context, android.util.AttributeSet, int);  
+}  
+  
+-keep class * implements android.os.Parcelable {  
+  public static final android.os.Parcelable$Creator *;  
+}  
+  
+-keepclasseswithmembers class * {  
+    public <init>(android.content.Context);  
+}
+
+
+
+
+
+
+
+ -keep public class javax.**
+ -keep public class android.webkit.**
+
+ -keep enum com.facebook.**
+ -keepattributes Exceptions,InnerClasses,Signature
+ 
+ -keepattributes SourceFile,LineNumberTable
+
+ -keep public interface com.facebook.**
+ -keep public interface com.tencent.**
+ -keep public interface com.umeng.socialize.**
+ -keep public interface com.umeng.socialize.sensor.**
+ -keep public interface com.umeng.scrshot.**
+
+ -keep public class com.umeng.socialize.* {*;}
+ -keep class com.facebook.**
+ -keep class com.facebook.** { *; }
+ -keep class com.umeng.scrshot.**
+ -keep public class com.tencent.** {*;}
+ -keep class com.umeng.socialize.sensor.**
+ -keep class com.umeng.socialize.handler.**
+ -keep class com.umeng.socialize.handler.*
+ -keep class com.tencent.mm.sdk.modelmsg.WXMediaMessage {*;}
+ -keep class com.tencent.mm.sdk.modelmsg.** implements com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject {*;}
+
+ -keep class im.yixin.sdk.api.YXMessage {*;}
+ -keep class im.yixin.sdk.api.** implements im.yixin.sdk.api.YXMessage$YXMessageData{*;}
+
+ -dontwarn twitter4j.**
+ -keep class twitter4j.** { *; }
+
+ -keep class com.tencent.** {*;}
+ -dontwarn com.tencent.**
+ -keep public class com.umeng.soexample.R$*{
+     public static final int *;
+ }
+ -keep public class com.umeng.soexample.R$*{
+     public static final int *;
+ }
+ -keep class com.tencent.open.TDialog$*
+ -keep class com.tencent.open.TDialog$* {*;}
+ -keep class com.tencent.open.PKDialog
+ -keep class com.tencent.open.PKDialog {*;}
+ -keep class com.tencent.open.PKDialog$*
+ -keep class com.tencent.open.PKDialog$* {*;}
+
+ -keep class com.sina.** {*;}
+ -dontwarn com.sina.**
+ -keep class  com.alipay.share.sdk.** {
+    *;
+ }
+ -keepnames class * implements android.os.Parcelable {
+     public static final ** CREATOR;
+ }
+
+ -keep class com.linkedin.** { *; }
+ -keepattributes Signature
+
+
+  

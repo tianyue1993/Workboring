@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/systemtitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <TextView
+        android:id="@+id/tv_comname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="@dimen/marginlarge"
+        android:layout_marginRight="@dimen/marginlarge"
+        android:layout_marginTop="@dimen/marginlarge"
+        android:gravity="center_horizontal"
+        android:maxLines="2"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/marginlarge"
+        android:layout_marginRight="@dimen/marginlarge"
+        android:layout_marginTop="@dimen/marginlittle"></ListView>
+
+</LinearLayout>

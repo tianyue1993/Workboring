@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f3f3"
+    android:orientation="vertical">
+
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/invitationCode"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="邀请码"
+            android:maxLength="6"
+            android:gravity="center_vertical"
+            android:paddingLeft="35dp"
+            android:textColor="#5a5a5a"
+            android:textColorHint="#c7b88f"
+            android:textSize="15dp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#f0ac88" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#E6E6E6" />
+
+        <TextView
+            android:id="@+id/regDepartmentId"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:background="#EEEEEE"
+            android:gravity="center_vertical"
+            android:paddingLeft="35dp"
+            android:clickable="false"
+            android:text="部门" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#EDEDED" />
+    </LinearLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/registeredPhone"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="手机号"
+            android:maxLength="11"
+            android:paddingLeft="35dp"
+            android:textSize="15dp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#f0ac88" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        >
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/verificationCode"
+            android:layout_width="300dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:hint="验证码"
+                android:maxLength="6"
+                android:gravity="center_vertical"
+                android:paddingLeft="35dp"
+                android:textSize="15dp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/getCode"
+            android:layout_width="72dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:background="@drawable/btn_common_new_bg"
+            android:text="获取验证码"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="17dp"
+            android:layout_marginEnd="17dp" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#f0ac88" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/registerPassword"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:hint="密码"
+            android:gravity="center_vertical"
+            android:maxLength="12"
+            android:inputType="textPassword"
+            android:paddingLeft="35dp"
+            android:textSize="15dp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#f0ac88" />
+
+    <EditText
+        android:id="@+id/et_enteractivation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:background="@null"
+        android:gravity="center"
+        android:hint="请输入6位企业激活码"
+        android:lines="1"
+        android:maxLength="6"
+        android:textColor="#5a5a5a"
+        android:textColorHint="#c7b88f"
+        android:textCursorDrawable="@drawable/cursor_drawable"
+        android:visibility="gone" />
+
+
+    <Button
+        android:id="@+id/btn_enteractivationnext"
+        style="@style/common_btn_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/btn_common_bg"
+        android:gravity="center"
+        android:text="注  册" />
+
+</LinearLayout>

@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_msglist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_msglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosecomstructrue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_choosecomstructrue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\disscusscomment_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\disscusscomment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_avator_recycleview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_avator_recycleview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\spinner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoselector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\activity_photoselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_healht_news.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_healht_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_index_gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\enterusernamechooseavatar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\enterusernamechooseavatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addnewtopic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_addnewtopic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\suggest_item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_age.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_age.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_msg_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\include_alertheader.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\include_alertheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mylottery.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_mylottery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_department.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_department.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picpop_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_picpop_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepassword.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aboutus.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_sports_detail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\suggest_sports_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_tips.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_photo_griditem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_photo_griditem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_shareattentioned.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_shareattentioned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_structure.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_structure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePullTorefreshlibrary\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\view_photopreview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\view_photopreview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mypointsdetail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_mypointsdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mycollection.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_mycollection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pointscollectdetail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_pointscollectdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\view_tips_loading2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\view_tips_loading2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgotpassword.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_companywelfarelist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_companywelfarelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_walk.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_walk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dcare_switch.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dcare_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePullTorefreshlibrary\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_seach_topic.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\acitivity_seach_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settingsportgoal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_settingsportgoal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_inc.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\notification_inc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page_around.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_page_around.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_actionbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rank.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\hsv.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\hsv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_album.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\layout_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photopreview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\activity_photopreview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ui.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\alertext_form.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\alertext_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtopicdisscuss.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_addtopicdisscuss.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\update_progress.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\update_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\mustupdate_version.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\mustupdate_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item_welfare.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\suggest_item_welfare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topicdisscusslist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_topicdisscusslist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page_find.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_page_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_share_group.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_search_share_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_pointsdetail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_pointsdetail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welfarelottery.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_welfarelottery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_alertview_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_cation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minesports.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_minesports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertbutton.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enterageweightheight.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_enterageweightheight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_msglist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_msglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\emptyview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\emptyview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msgsetting.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_msgsetting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_device_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_examinereport.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_examinereport.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\disscuss_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\disscuss_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nickname.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_nickname.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_disscussconment_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_disscussconment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\pedometer_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\pedometer_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_common_ui.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_common_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sharecomplete.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_sharecomplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\simple_system_title_withright.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\simple_system_title_withright.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\view_tips_loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\view_tips_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_bluedevice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_bluedevice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page_suggest.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_page_suggest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trend.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_trend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\around_item_attentioned.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\around_item_attentioned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\suggest_item_health.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\suggest_item_health.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\item_pointsexchange.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\item_pointsexchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enteractivation.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_enteractivation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myexchange.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_myexchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relateworknumber.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_relateworknumber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_healthnewa.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_search_healthnewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page_mine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_page_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_height.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_height.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activiity_minefeedback.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activiity_minefeedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_topic_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_topic_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_signin.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\system_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\system_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\update_version.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\update_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\publish_topic_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\publish_topic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\simple_system_title.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\simple_system_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commonwebview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_commonwebview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_page_walk.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\fragment_page_walk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_commentopt_ui.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\dialog_commentopt_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_minesport_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_minesport_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_companywelfare.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_companywelfare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\disscussphoto_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\disscussphoto_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pointsexchange.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_pointsexchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\steps_notification.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\steps_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_pointsexchange_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_pointsexchange_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_myexchange.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_myexchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weight.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\page_item_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\page_item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\test_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\test_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_healthconsult.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_healthconsult.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\empty_topicdiscuss_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\empty_topicdiscuss_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minedevice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_minedevice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msglist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_msglist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\getui_notification.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\getui_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\around_item_notattentioned.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\around_item_notattentioned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_photoitem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\layout_photoitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disscussconment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_disscussconment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_vertical.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\view_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\layout\\view_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settingnews.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_settingnews.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sportrecommand.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_sportrecommand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\bindhc_activity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\bindhc_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\layout\\activity_healthconsultlist.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\layout\\activity_healthconsultlist.xml"
+    }
+]

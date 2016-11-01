@@ -1,0 +1,27 @@
+1. versioncode 1  versionname 1.0 time 2016/1/18 15:00
+	
+2. versioncode 2  versionname 1.1 time 2016/1/18 16:30
+	
+3. versioncode 3  versionname 1.3 time 2016/1/19 18:30
+
+4. versioncode 4  versionname 1.4 time 2016/1/20 15:40
+
+
+5. versioncode 5  versionname 1.5 time 2016/1/21 10:00
+
+
+6. versioncode 6  versionname 1.6 time 2016/1/25 17:50
+	去除点亮屏幕限制，身边解决bug，出现有数据但是显示没有数据的bug，搜索解决提示出错的bug 
+ 
+8. versioncode 8  versionname 1.8 time 2016/1/27 16:30
+	增加主页可划动日期显示往日的数据信息 
+9. versioncode 8  versionname 1.8 time 2016/1/28 20:30
+	头像可以滑动选择，修改bug
+12. versioncode 12  versionname 1.12 time 2016/2/17 14:50
+	解决部分手机突然不计步的bug，忧化部分UI,首页可以历史数据可以显示目标步数
+13. versioncode 13  versionname 1.13 time 2016/2/17 14:50
+	图片上传压缩更改，增加多账号支持，
+ 
+14. versioncode 14  versionname 1.14 time 2016/3/2 14:00
+	积分兑换，福利抽奖部分，增加蓝牙连接部分，增加个推，重新设计计步数据格式，优化上传数据
+ 

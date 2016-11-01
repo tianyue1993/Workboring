@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--
+        com.viewpagerindicator.TabPageIndicator
+        android:id="@+id/indicator"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"         <com.viewpagerindicator.TitlePageIndicator
+        android:id="@+id/indicator"
+        android:padding="5dip"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="#18FF0000"
+        android:textColor="#AA000000"
+        app:footerColor="#FFAA2222"
+        app:footerLineHeight="1dp"
+        app:footerIndicatorHeight="3dp"
+        app:footerIndicatorStyle="underline"
+        app:selectedColor="#FF000000"
+        app:selectedBold="true"
+        android:layout_centerHorizontal="true"
+    -->
+
+
+    <!--
+          <LinearLayout
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:layout_centerHorizontal="true"
+        android:background="@color/walk_tab_bg"
+        android:gravity="center_horizontal"
+        android:minHeight="@dimen/height_alert_title"
+        android:orientation="horizontal" >
+
+       <LinearLayout
+            android:id="@+id/li_tab_walk"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_walk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:text="@string/walk"
+                android:textColor="@color/bisque"
+                android:textSize="22sp" />
+
+            <View
+                android:id="@+id/indicator_tab_walk"
+                android:layout_width="55dp"
+                android:layout_height="3dp"
+                android:background="@color/bisque" />
+        </LinearLayout>
+    -->
+
+
+    <!--
+    <LinearLayout
+            android:id="@+id/li_tab_sleep"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_tab_sleep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:text="@string/sleep"
+                android:textSize="20sp" />
+
+            <View
+                android:id="@+id/indicator_tab_sleep"
+                android:layout_width="55dp"
+                android:layout_height="3dp"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+    </LinearLayout>
+    -->
+
+    <RelativeLayout
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:background="@color/walk_tab_bg"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/height_alert_title" >
+
+        <ImageView
+            android:id="@+id/trend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:padding="@dimen/marginlarge"
+            android:src="@drawable/jiangbei" />
+
+        <ImageView
+            android:id="@+id/msg_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:padding="@dimen/marginlarge"
+            android:src="@drawable/icon_msg" />
+
+        <TextView
+            android:id="@+id/tv_tab_walk"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:layout_toLeftOf="@+id/msg_iv"
+            android:layout_toRightOf="@+id/trend"
+            android:gravity="center"
+            android:text="@string/walk"
+            android:textColor="@color/white"
+            android:textSize="@dimen/common_title_textsize" />
+        <!--
+        <ImageView
+            android:id="@+id/msgcenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/ic_launcher"
+            android:visibility="gone" />
+        -->
+    </RelativeLayout>
+
+    <!--
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/indicator"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+    -->
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.etcomm.dcare.fragment.WalkPageFragment" />
+
+</RelativeLayout>

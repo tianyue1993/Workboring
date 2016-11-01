@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/feedback_commit"
+        style="@style/common_btn_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/marginlarge"
+        android:layout_marginTop="@dimen/marginlittle"
+        android:background="@drawable/btn_common_rectangel_bg"
+        android:clickable="false"
+        android:enabled="false"
+        android:text="@string/commit" />
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:layout_alignParentTop="true" >
+    </com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <EditText
+        android:id="@+id/feedback_contact_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/feedback_tv"
+        android:layout_marginLeft="@dimen/marginmiddle"
+        android:layout_marginRight="@dimen/marginmiddle"
+        android:layout_marginTop="@dimen/marginmiddle"
+        android:background="@drawable/bg_roundrantangle"
+        android:hint="QQ、邮箱或电话"
+        android:minHeight="45dp"
+        android:paddingLeft="@dimen/marginsmall"
+        android:paddingRight="@dimen/marginsmall"
+        android:singleLine="true"
+        android:textCursorDrawable="@drawable/cursor_drawable" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/feedback_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlebar"
+        android:layout_marginLeft="@dimen/marginlarge"
+        android:layout_marginRight="@dimen/marginlarge"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/bg_roundrantangle"
+        android:gravity="top"
+        android:hint="有什么不满意的尽情的吐槽吧"
+        android:maxLength="200"
+        android:minLines="6"
+        android:paddingLeft="@dimen/marginsmall"
+        android:paddingRight="@dimen/marginsmall"
+        android:paddingTop="@dimen/marginsmall"
+        android:textColor="#5a5a5a"
+        android:textCursorDrawable="@drawable/cursor_drawable" />
+
+    <TextView
+        android:id="@+id/contact_info_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/feedback_contact_tv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/marginsmall"
+        android:text="您的联系方式便于我们联系您解决问题，仅工作人员可见."
+        android:textSize="10sp" />
+
+</RelativeLayout>

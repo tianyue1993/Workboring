@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_tab_unselect.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_tab_unselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_cancel_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dialog_btn_cancel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_rank_track.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_rank_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_back_arrow_white_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\bg_back_arrow_white_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\stepseekbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\stepseekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_black_textcolor_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\btn_black_textcolor_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exchange_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_exchange_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_suggest.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_suggest.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\btn_checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\weibolist_atme_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\weibolist_atme_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_btn_ok_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dialog_btn_ok_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\cursor_drawable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\cursor_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_attention_selector_enable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_attention_selector_enable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_rank_thumb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_rank_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_around.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_around.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_getvalidcode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_getvalidcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\add_new_top_edit_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\add_new_top_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_rectangel_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_rectangel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\numberseekbar_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\numberseekbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector_rectangle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\btn_green_selector_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_item_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\pop_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_new_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_new_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\update_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\update_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_new_unable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_new_unable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sex_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_sex_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_text_color.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_find.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_rectangel_unable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_rectangel_unable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_none.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_sex_choosed_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_sex_choosed_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_bottom_bar_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\comment_bottom_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll_boader.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\scroll_boader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\weibolist_comment_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\weibolist_comment_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\btn_camera_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertview_alert.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\minus_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\minus_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat_fav.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\wechat_fav.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_useful_points.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\mine_useful_points.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\thumb_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePullTorefreshlibrary\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\ios_back_drawable.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\ios_back_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\nickname_changed_et_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\nickname_changed_et_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_screenon_track.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_screenon_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\refreshing_anim.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePullTorefreshlibrary\\unspecified\\res\\drawable\\refreshing_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_attention_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_attention_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\arout_tab_li_white_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\arout_tab_li_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_screenon_thumb.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\switch_screenon_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\plus_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_mine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\sina_web_default.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\sina_web_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_new_pressed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_new_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_roundrantangle.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_roundrantangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_tab_selected.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_item_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\mine_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_rectangel_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_rectangel_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\weibolist_bottombar_itembg_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\weibolist_bottombar_itembg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePullTorefreshlibrary\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\weibolist_mylist_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\weibolist_mylist_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\dcare_tab_walk.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\dcare_tab_walk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_new_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_new_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_attention_selector_pressed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_attention_selector_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dark_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\WorkSpace\\DcarePhotoSelector\\unspecified\\res\\drawable\\bg_dark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\around_attention_selector_normal.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\around_attention_selector_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_pic.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common_rectangel_pressed.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\btn_common_rectangel_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\weibolist_global_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\weibolist_global_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\pedometer_notification_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\exploded-aar\\pedometerservice-release\\res\\drawable\\pedometer_notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcareServerVolly\\res\\drawable\\umeng_socialize_twitter.png"
+    }
+]

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/common_bg"
+        android:orientation="vertical">
+
+        <com.etcomm.dcare.widget.SimpleTitleBar
+            android:id="@+id/titlebar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBar>
+
+        <RelativeLayout
+            android:id="@+id/personalavator_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/setting_personal_tv1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="头像"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/indicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <com.etcomm.dcare.widget.CircleImageView
+                android:id="@+id/personalavator_ciriv"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:layout_toLeftOf="@+id/indicator"
+                android:maxHeight="50dp"
+                android:maxWidth="50dp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/personal_username_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/setting_personal_imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="姓名"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/personal_username_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/imageView2"
+                android:padding="8dp"
+                android:text="田余乐"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/personal_nickname_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/setting_personal_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="昵称"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <TextView
+                android:id="@+id/personal_nickname_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/imageView1"
+                android:padding="8dp"
+                android:text="蒙奇奇"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/personal_sex_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginsmall"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="性别"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/personal_sex_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <TextView
+                android:id="@+id/personal_sex_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/personal_sex_imageView1"
+                android:padding="8dp"
+                android:text="女"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/personal_deapartment_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/personal_deapartment__tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="部门"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <RelativeLayout
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/personal_deapartment_imageView1">
+
+                <TextView
+                    android:id="@+id/personal_deapartment_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:maxLength="30"
+                    android:maxLines="3"
+                    android:padding="8dp"
+                    android:text="销售部售售销部售售部售部售"
+                    android:textColor="@color/settingpersoninfo_item_value"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/personal_deapartment_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/personal_height_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginsmall"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/personal_height__tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="身高"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/personal_height_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <TextView
+                android:id="@+id/personal_height_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/personal_height_imageView1"
+                android:padding="8dp"
+                android:text="168cm"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/personal_weight_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/personal_weight__tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="体重"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/personal_weight_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <TextView
+                android:id="@+id/personal_weight_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/personal_weight_imageView1"
+                android:padding="8dp"
+                android:text="56kg"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <RelativeLayout
+            android:id="@+id/personal_age_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/personal_age__tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="出生"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/personal_age_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator" />
+
+            <TextView
+                android:id="@+id/personal_age_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/personal_age_imageView1"
+                android:padding="8dp"
+                android:text="1986年"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/job_number_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/mine_item_bg"
+            android:clickable="true"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/job_number__tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:text="员工号"
+                android:textColor="@color/settingpersoninfo_item_name"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/job_number_imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginhuge"
+                android:scaleType="matrix"
+                android:src="@drawable/rightindicator"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/job_number_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/marginlarge"
+                android:layout_toLeftOf="@+id/job_number_imageView1"
+                android:padding="8dp"
+                android:text="2222"
+                android:textColor="@color/settingpersoninfo_item_value"
+                android:textSize="17sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_wl"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="2dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:background="#dadada">
+
+            <TextView
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:text="@string/cancel"
+                android:textColor="#f34c35" />
+
+            <TextView
+                android:id="@+id/choosetext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/chooseage"
+                android:textColor="#282828" />
+
+            <TextView
+                android:id="@+id/sure"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="@string/sure"
+                android:textColor="#f34c35" />
+        </RelativeLayout>
+
+        <com.etcomm.dcare.app.widget.WheelView
+            android:id="@+id/wl_pickerage"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:gravity="center" />
+
+        <com.etcomm.dcare.app.widget.WheelView
+            android:id="@+id/wl_pickerweight"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:gravity="center" />
+
+        <com.etcomm.dcare.app.widget.WheelView
+            android:id="@+id/wl_pickerheight"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:gravity="center" />
+    </LinearLayout>
+
+</FrameLayout>

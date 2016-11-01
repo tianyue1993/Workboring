@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/suggest_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:id="@+id/rl_head_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/head_tip" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="1dp"
+            android:ems="1"
+            android:text="资讯"
+            android:textColor="@color/white"
+            android:textSize="11sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#88000000" >
+
+        <TextView
+            android:id="@+id/healthtopic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:maxLines="1"
+            android:layout_marginRight="60dp"
+            android:ellipsize="end"
+            android:text="jskjcnkxzsdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+            android:layout_marginLeft="@dimen/marginmiddle"
+            android:textColor="@color/suggest_item_text_color"
+            android:textSize="14sp" />
+
+        <TextView
+            
+            android:id="@+id/readingamount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/marginlarge"
+            android:drawableLeft="@drawable/eyereadcount"
+            android:paddingLeft="@dimen/marginmiddle"
+            android:drawablePadding="5dp"
+            android:text="3856"
+            android:textColor="@color/suggest_item_text_color"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

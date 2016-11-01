@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg" >
+
+    <com.etcomm.dcare.widget.SimpleTitleBarWithRightText
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title" >
+    </com.etcomm.dcare.widget.SimpleTitleBarWithRightText>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pulllistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/titlebar" >
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <include
+        android:id="@+id/emptyview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/titlebar"
+        layout="@layout/empty_topicdiscuss_layout"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/adddisscuss_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/marginlargehuge"
+        android:layout_marginRight="@dimen/marginsmall"
+        android:minHeight="30dp"
+        android:minWidth="30dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adddisscuss" />
+
+</RelativeLayout>

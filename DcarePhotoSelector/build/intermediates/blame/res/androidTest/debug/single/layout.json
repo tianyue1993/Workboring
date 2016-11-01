@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_album.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\view_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_photoitem.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_photoitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_photopreview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_photopreview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_photoselector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_photoselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_photopreview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\layout\\view_photopreview.xml"
+    }
+]

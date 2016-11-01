@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--白色字体  -->
+    <color name="text_color_white">#FFFFFF</color>
+
+    <!-- Tab字休颜色颜色 -->
+    <color name="dcare_tab_selected">#f08300</color>
+    <color name="dcare_tab_unselected">#5a5a5a</color>
+    <!-- 底栏分隔线颜色 -->
+    <color name="main_tab_stroke_color">#775a5a5a</color>
+    <!-- 标题栏背景颜色 -->
+    <color name="title_bg_color">#f37f32</color>
+    <!-- 能用背景颜色 -->
+    <color name="common_bg">#f4f3f3</color>
+
+    <!-- 通用标题栏字体颜色 -->
+    <color name="title_text_color">#ffffff</color>
+    <!-- Tab 背景颜色 -->
+    <color name="dcare_tab_bg">#e4e4e4</color>
+    <!-- 首页walk page  标题栏tab背景 -->
+    <color name="walk_tab_bg">#f37f32</color>
+    <!-- walk page 个人排名 字体颜色 -->
+    <color name="walkpageranktext">#f08300</color>
+    <!-- 能用按钮等字体颜色 -->
+    <color name="commen_text_color">#f4f3f3</color>
+    <!-- 提交按钮三种颜色 -->
+    <color name="btn_common_pressed">#fac158</color>
+    <color name="btn_common_unenable">#adadad</color>
+    <color name="btn_common_normal">#fac158</color>
+    <color name="def_wheel_color">#4E4988</color>
+    <color name="def_reached_color">#FFD844</color>
+    <color name="def_pointer_color">#FFFFFF</color>
+    <color name="bisque">#FFE4C4</color>
+
+    <!-- 桔黄色 -->
+    <color name="lightcyan">#E0FFFF</color>
+    <!-- 亮青色 -->
+    <color name="mediumvioletred">#C71585</color>
+    <!-- 中紫罗兰色 -->
+    <color name="silver">#C0C0C0</color>
+    <!-- 银色 -->
+    <color name="skyblue">#87CEEB</color>
+    <!-- 天蓝色 -->
+    <color name="gray">#808080</color>
+    <!-- 灰色 -->
+    <color name="grey">#808080</color>
+    <!-- 灰色 -->
+    <color name="hint_color">#FFFFFF</color>
+    <color name="main_transparent_color">#00000000</color>
+    <!-- 白色 -->
+    <color name="black">#000000</color>
+    <!--  -->
+    <color name="common_org">#fac158</color>
+    <!--  -->
+    <color name="common_yel">#f08300</color>
+    <!-- 黑色 -->
+    <color name="blue">#0000FF</color>
+    <!-- 首页圆环背景和进度条背景 -->
+    <color name="circleunreached">#e0dfdf</color>
+    <!-- 蓝色 -->
+    <!-- 覆盖颜色 -->
+    <color name="bgColor_overlay">#60000000</color>
+    <!-- 窗口背景颜色 -->
+    <color name="bgColor_alertview_alert">#f8f8f8</color>
+    <color name="bgColor_alertview_alert_start">#f0f0f0</color>
+    <!-- 标题颜色 -->
+    <color name="textColor_alert_title">#000000</color>
+    <color name="textColor_actionsheet_title">#8f8f8f</color>
+    <!-- 消息颜色 -->
+    <color name="textColor_alert_msg">#000000</color>
+    <color name="textColor_actionsheet_msg">#8f8f8f</color>
+    <!-- 线条颜色 -->
+    <color name="bgColor_divier">#d7d7db</color>
+    <!-- 取消按钮颜色 -->
+    <color name="textColor_alert_button_cancel">#007aff</color>
+    <!-- 高亮按钮颜色 -->
+    <color name="textColor_alert_button_destructive">#ff3b30</color>
+    <!-- 普通按钮文字颜色 -->
+    <color name="textColor_alert_button_others">#007aff</color>
+    <!-- 点击颜色 -->
+    <color name="bgColor_alert_button_press">#EAEAEA</color>
+    <!-- actionsheet模式的取消按钮背景颜色 -->
+    <color name="bgColor_actionsheet_cancel_nor">#ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+    <color name="darkgray">#777777</color>
+    <!-- 暗灰色 -->
+    <color name="clicgreen">#04BFBF</color>
+    <color name="darkcyan">#006699</color>
+    <!-- 浅青色 -->
+    <color name="darkblue">#003366</color>
+    <!-- 深蓝色 -->
+    <color name="lightblue">#99ccff</color>
+    <!-- 浅蓝色 -->
+    <color name="lightbrown">#ffcc99</color>
+    <!-- 浅棕色 -->
+    <color name="darkbrown">#cc9966</color>
+    <!-- 深棕色 -->
+    <color name="magenta">#cc3399</color>
+    <!-- 洋红色 -->
+    <color name="lightgray">#D3D3D3</color>
+    <!-- 浅灰色 -->
+    <color name="buttongreen">#1e7de4</color>
+    <!-- 按钮文字浅蓝 -->
+    <color name="common_button_text">#133c65</color>
+    <color name="alpha7balck">#b2000000</color>
+    <color name="red">#f00</color>
+    <color name="row_start_color">#CCFF99</color>
+    <color name="row_end_color">#CCFF99</color>
+
+    <!-- 公共颜色开始 -->
+    <!-- 图表颜色 -->
+    <color name="graph_yellow">#ffc000</color>
+    <color name="graph_green">#91cf00</color>
+    <color name="graph_blue">#688fdf</color>
+    <!-- 文字颜色 -->
+    <color name="title_text_black">#1f1f1f</color>
+    <color name="nav_btn_black">#686868</color>
+    <color name="nav_btn_selected_black">#1f1f1f</color>
+    <color name="list_text_black">#272b2e</color>
+    <color name="list_text_gray">#2d2d2d</color>
+    <color name="list_text_gray_new">#8f8f8f</color>
+    <color name="list_text_blue">#688fdf</color>
+    <color name="list_text_red">#f05b59</color>
+    <color name="list_text_green">#2daf83</color>
+    <color name="around_text_gry">#666666</color>
+    <color name="around_text_number">#c3bbbb</color>
+    <!-- edittext的提示颜色 -->
+    <color name="text_gray_unedit">#b0b0b0</color>
+    <!-- textview阅读时不可点击的灰色 -->
+    <color name="text_gray_unclick">#b5b5b5</color>
+    <!-- 工具栏分割线颜色 -->
+    <color name="toolbar_separator">#a0a0a0</color>
+    <!-- 背景颜色 -->
+    <color name="index_bkgrd">#fbfbfb</color>
+    <color name="common_back">#e7eeec</color>
+    <color name="common_tittle_bg">#2eb085</color>
+    <color name="bg_toolbar">#f5f5f5</color>
+    <color name="bg_blue">#688fdf</color>
+    <!-- 列表颜色 -->
+    <color name="list_item_bkgrd">#fdfdfd</color>
+    <color name="list_item_selected_bkgrd">#f0f0f0</color>
+    <color name="list_separator">#dfdfdf</color>
+    <color name="list_border">#d0d0d0</color>
+    <!-- btn背景颜色 -->
+    <color name="btn_bkgrd_blue">#65a5ff</color>
+    <color name="btn_bkgrd_blue_selected">#3f8fe1</color>
+    <color name="btn_bkgrd_red">#ff5001</color>
+    <color name="btn_bkgrd_red_selected">#df3f00</color>
+    <color name="btn_bkgrd_orange">#ffc000</color>
+    <!-- 公共颜色结束 -->
+    <color name="divided_color">#D0D0D0</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_default">#e7eeec</color>
+    <color name="left_item_pressed">#e7eeec</color>
+    <color name="leftmenuitem_pressed">#f1f1f1</color>
+    <color name="span_line_color">#d5d5d5</color>
+    <color name="left_text_color">#272b2c</color>
+    <color name="dialog_btn_green">#54bb74</color>
+    <color name="common_dialog_default_color">#272624</color>
+    <color name="bottom_menu_bg_color">#E65e5e5e</color>
+    <color name="bottom_menu_cancel_color">#c4c4c4</color>
+    <color name="btn_default_text_color">#272624</color>
+    <color name="color_black_light">#99000000</color>
+    <color name="medicine_detail_gray">#656565</color>
+    <color name="grid_item_hint">#ece7da</color>
+    <!-- 光标颜色 -->
+    <color name="common_cursor_color">#5a5a5a</color>
+    <!-- 浅黑色 -->
+    <color name="common_light_black_color">#a9a9a9</color>
+    <!-- 确认框 按钮 字体颜色 -->
+    <color name="common_dialog_btn_textcolor">#84c0eb</color>
+    <!-- 公共字体黑色 -->
+    <color name="common_black_text">#5a5a5a</color>
+    <color name="common_dimblack_text">#807e7e</color>
+    <color name="switch_texton_color">#ffffff</color>
+    <color name="switch_textoff_color">#fac158</color>
+    <!-- 首页进度条 -->
+    <color name="main_progress_bg_color">#fb9a51</color>
+    <color name="suggest_item_text_color">#d9d3d3</color>
+    <!-- 发现页面线体颜色  -->
+    <color name="find_line_color">#b1b0b0</color>
+    <!-- 个人资料设置页面item条目的名称颜色 -->
+    <color name="settingpersoninfo_item_name">#5a5a5a</color>
+    <!-- 个人资料设置页面item条目的字体 颜色 -->
+    <color name="settingpersoninfo_item_value">#5a5a5a</color>
+    <!-- 关于我们界面 所有的字体颜色 -->
+    <color name="aboutus_text_color">#5a5a5a</color>
+    <color name="aboutus_text_light_color">#a9a9a9</color>
+    <!-- 设置界面ITEM标题的颜色 -->
+    <color name="setting_item_name">#5a5a5a</color>
+    <!--  -->
+    <color name="minefragment_itemname">#5a5a5a</color>
+    <!--  -->
+    <color name="btn_unable">#e0e0e0</color>
+    <color name="mine_usefulpoint_bg">#ffbc4b</color>
+</resources>

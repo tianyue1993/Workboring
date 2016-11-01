@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 背景图 -->
+    <item
+        android:id="@android:id/background"
+        android:height="3dp"
+        android:width="300dp">
+        <shape android:shape="rectangle" >
+            <corners android:radius="10dip" />
+
+            <gradient
+                android:angle="270"
+                android:centerColor="#ff5a5d5a"
+                android:centerY="0.75"
+                android:endColor="#ff747674"
+                android:startColor="#ff9d9e9d" />
+
+            <size
+                android:height="3dp"
+                android:width="300dp" >
+            </size>
+
+            <solid android:color="@color/grey" >
+            </solid>
+        </shape>
+    </item>
+    <!-- 第二进度图 -->
+    <item
+        android:id="@android:id/secondaryProgress"
+        android:height="3dp"
+        android:width="300dp">
+        <clip>
+            <shape>
+                <corners android:radius="10dip" />
+
+                <size
+                    android:height="3dp"
+                    android:width="300dp" >
+                </size>
+
+                <solid android:color="@color/grey" >
+                </solid>
+
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#80ffb600"
+                    android:centerY="0.75"
+                    android:endColor="#a0ffcb00"
+                    android:startColor="#80ffd300" />
+            </shape>
+        </clip>
+    </item>
+    <!-- 进度度 -->
+    <item
+        android:id="@android:id/progress"
+        android:height="3dp"
+        android:width="300dp">
+        <clip>
+            <shape>
+                <corners android:radius="10dip" />
+
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#ffffb600"
+                    android:centerY="0.75"
+                    android:endColor="#ffffcb00"
+                    android:startColor="#ffffd300" />
+
+                <size
+                    android:height="3dp"
+                    android:width="300dp" >
+                </size>
+
+                <solid android:color="@color/title_bg_color" >
+                </solid>
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/common_bg"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tips_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/marginmiddle"
+            android:layout_marginTop="@dimen/marginmiddle"
+            android:text="提示" />
+
+        <ImageView
+            android:layout_width="@dimen/common_dialog_width"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pop_alert_line" />
+
+        <TextView
+            android:id="@+id/tips_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/marginmiddle"
+            android:layout_marginLeft="@dimen/marginmiddle"
+            android:layout_marginRight="@dimen/marginmiddle"
+            android:layout_marginTop="@dimen/marginmiddle"
+            android:text="请到xxxxxxxxxxxxxxxxxxxx领奖" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="@dimen/marginmiddle"
+            android:layout_marginRight="@dimen/marginmiddle" />
+
+        <TextView
+            android:id="@+id/tips_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/marginmiddle"
+            android:layout_marginLeft="@dimen/marginmiddle"
+            android:layout_marginRight="@dimen/marginmiddle"
+            android:background="@drawable/btn_common_dialog"
+            android:padding="10dp"
+            android:text="我知道了" />
+    </LinearLayout>
+
+</LinearLayout>

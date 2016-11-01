@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="xhdpi"
+    format="7"
+    timestamp="38549972619594"
+    token="2884756820927279658" >
+
+    <task
+        name="javac"
+        duration="6287" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="7460" />
+    <task
+        name="verifier"
+        duration="4978" />
+
+    <artifact
+        location="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\outputs\apk\DcareServerVolly-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="38549972619594" >
+        <artifact
+            location="C:\Users\Administrator\Desktop\chunyu\WorkSpace\DcareServerVolly\build\outputs\apk\DcareServerVolly-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

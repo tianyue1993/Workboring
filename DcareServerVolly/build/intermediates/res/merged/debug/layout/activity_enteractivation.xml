@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f3f3"
+    android:orientation="vertical" >
+
+    <!--
+        <com.etcomm.dcare.widget.SystemTitle 
+        android:id="@+id/systemtitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+
+    -->
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title" >
+    </com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <EditText
+        android:id="@+id/et_enteractivation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:background="@null"
+        android:gravity="center"
+        android:hint="请输入6位企业激活码"
+        android:lines="1"
+        android:maxLength="6"
+        android:textColor="#5a5a5a"
+        android:textColorHint="#c7b88f"
+        android:textCursorDrawable="@drawable/cursor_drawable" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#f0af8c" />
+
+    <Button
+        android:id="@+id/btn_enteractivationnext"
+        style="@style/common_btn_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/btn_common_bg"
+        android:gravity="center"
+        android:text="@string/next" />
+
+</LinearLayout>

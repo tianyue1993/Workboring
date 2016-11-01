@@ -1,0 +1,237 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 48,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 48,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 53,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 53,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 46,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 46,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 62,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 62,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 57,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 57,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 49,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 49,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 57,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 57,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 59,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 59,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 57,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 57,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 50,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 50,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 895
+                    }
+                }
+            }
+        ]
+    }
+]

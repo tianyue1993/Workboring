@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp" >
+
+    <TextView
+        android:id="@+id/disscuss_time_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="@dimen/marginmiddle"
+        android:layout_marginTop="11.5dp"
+        android:text="11:00"
+        android:textSize="12sp" />
+
+    <LinearLayout
+        android:id="@+id/disscuss_userinfo_li"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/marginmiddle"
+        android:layout_marginTop="@dimen/marginlittle"
+        android:layout_toLeftOf="@+id/disscuss_time_tv"
+        android:orientation="horizontal" >
+
+        <com.etcomm.dcare.widget.CircleImageView
+            android:id="@+id/disscuss_useravator"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/avator_nv_2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/marginsmall"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/disscuss_user_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:text="永军"
+                android:textColor="@color/common_black_text"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/disscuss_user_depart_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-1dp"
+                android:text="hskcjnkscnsdkjnj"
+                android:textColor="@color/gray"
+                android:textSize="10sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/disscuss_content_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/disscuss_userinfo_li"
+        android:layout_marginLeft="@dimen/marginmiddle"
+        android:layout_marginTop="@dimen/marginlittle"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:id="@+id/share_health_news"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/disscuss_userinfo_li"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="@dimen/marginmiddle"
+        android:layout_marginRight="@dimen/marginmiddle"
+        android:layout_marginTop="@dimen/marginlittle"
+        android:background="#e4e4e4" >
+
+        <ImageView
+            android:id="@+id/item_healthnews_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="@dimen/marginsmall"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/item_healthnews_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/item_healthnews_image"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/item_healthnews_sumary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_healthnews_title"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/item_healthnews_image"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/disscuss_opt_li"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/marginsmall"
+        android:layout_marginRight="@dimen/marginsmall"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/disscuss_delete_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:src="@drawable/disscuss_delete" />
+
+        <ImageView
+            android:id="@+id/disscuss_like_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:src="@drawable/liked" />
+
+        <TextView
+            android:id="@+id/disscuss_like_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            android:paddingRight="2dp"
+            android:text="5"
+            android:textColor="@color/gray" />
+
+        <ImageView
+            android:id="@+id/disscuss_messages_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="1dp"
+            android:src="@drawable/messages" />
+
+        <TextView
+            android:id="@+id/disscuss_messages_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:drawablePadding="5dp"
+            android:lineSpacingExtra="1px"
+            android:paddingLeft="1dp"
+            android:text="20"
+            android:textColor="@color/gray" />
+    </LinearLayout>
+
+    <com.etcomm.dcare.widget.NoScrollGridView
+        android:id="@+id/disscuss_pics_gridview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/disscuss_content_tv"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="@dimen/marginlarge"
+        android:layout_marginTop="10dp"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:verticalSpacing="10dp" >
+    </com.etcomm.dcare.widget.NoScrollGridView>
+    <!-- android:layout_toLeftOf="@+id/disscuss_opt_li" -->
+
+</RelativeLayout>

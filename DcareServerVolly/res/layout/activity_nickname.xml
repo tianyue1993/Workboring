@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical" >
+
+    <com.etcomm.dcare.widget.SimpleTitleBarWithRightText
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:layout_alignParentTop="true" >
+    </com.etcomm.dcare.widget.SimpleTitleBarWithRightText>
+
+	<com.etcomm.dcare.widget.ExEditText 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:minHeight="40dp"
+	    android:paddingTop="2dp"
+	    android:layout_marginTop="@dimen/marginmiddle"
+	    android:textCursorDrawable="@drawable/cursor_drawable"
+	    android:layout_marginRight="@dimen/marginlarge"
+	    android:layout_marginLeft="@dimen/marginlarge"
+	    android:drawablePadding="@dimen/marginlarge"
+	    android:paddingRight="15dp"
+	    android:paddingLeft="5dp"
+	    android:paddingBottom="2dp"
+	    android:id="@+id/nickname_et"
+	    android:maxLength="10"
+	    android:drawableRight="@drawable/nickname_delete"
+	    android:background="@drawable/nickname_changed_et_bg"
+	    />
+	
+    <Button
+        android:id="@+id/btn_next"
+        style="@style/common_btn_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/marginmiddle"
+        android:background="@drawable/btn_common_bg"
+        android:text="完成"
+        android:visibility="invisible" />
+
+</LinearLayout>

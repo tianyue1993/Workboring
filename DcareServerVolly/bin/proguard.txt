@@ -1,0 +1,513 @@
+# view res/layout/activity_photopreview.xml #generated:7
+# view res/layout/activity_splash.xml #generated:6
+# view res/layout/fragment_page_walk.xml #generated:167
+# view res/layout/test_main.xml #generated:71
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:40
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:300
+-keep class com.etcomm.dcare.AddNewTopicActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class com.etcomm.dcare.AddTopicDisscussActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.etcomm.dcare.BaseFragmentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.etcomm.dcare.BaseWebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:329
+-keep class com.etcomm.dcare.CommonWebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.etcomm.dcare.CompanyWelfareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:233
+-keep class com.etcomm.dcare.CompanyWelfareListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:284
+-keep class com.etcomm.dcare.DepartMentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:312
+-keep class com.etcomm.dcare.DisscussConentListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.etcomm.dcare.EnterAgeWeightHeightActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.etcomm.dcare.ExamineReportActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:197
+-keep class com.etcomm.dcare.HealthConsultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:241
+-keep class com.etcomm.dcare.HealthConsultListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:420
+-keep class com.etcomm.dcare.IntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.etcomm.dcare.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:325
+-keep class com.etcomm.dcare.MineDeviceActivityNew { <init>(...); }
+
+# view AndroidManifest.xml #generated:185
+-keep class com.etcomm.dcare.MineFeedBackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class com.etcomm.dcare.MineSportsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.etcomm.dcare.MsgListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:316
+-keep class com.etcomm.dcare.MyCollectionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.etcomm.dcare.MyExchangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:343
+-keep class com.etcomm.dcare.MyLotteryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:224
+-keep class com.etcomm.dcare.MyPointsDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:339
+-keep class com.etcomm.dcare.PedometerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class com.etcomm.dcare.PointsColleketDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:202
+-keep class com.etcomm.dcare.PointsExchangeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:320
+-keep class com.etcomm.dcare.RankActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:296
+-keep class com.etcomm.dcare.SearchTopicActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.etcomm.dcare.ShareActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:158
+-keep class com.etcomm.dcare.ShowAlartViewBaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.etcomm.dcare.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.etcomm.dcare.SportRecommandActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.etcomm.dcare.SuggestSportDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:348
+-keep class com.etcomm.dcare.TestActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:356
+-keep class com.etcomm.dcare.TestImagePickerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:304
+-keep class com.etcomm.dcare.TopicDisscussListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:170
+-keep class com.etcomm.dcare.TrendRecordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:334
+-keep class com.etcomm.dcare.WelfareLotteryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:214
+-keep class com.etcomm.dcare.app.activity.SearchHealthNewsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:364
+-keep class com.etcomm.dcare.app.activity.SharetoGroupActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.etcomm.dcare.app.activity.login.ChangePasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.etcomm.dcare.app.activity.login.ChangePasswordActivityNew { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.etcomm.dcare.app.activity.login.ChooseComStructureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.etcomm.dcare.app.activity.login.EnterpriseActivationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.etcomm.dcare.app.activity.login.ForgotPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.etcomm.dcare.app.activity.login.ForgotPasswordActivityNew { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.etcomm.dcare.app.activity.login.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.etcomm.dcare.app.activity.login.LoginActivityNew { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.etcomm.dcare.app.activity.login.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class com.etcomm.dcare.app.activity.login.RegisterActivityNew { <init>(...); }
+
+# view AndroidManifest.xml #generated:292
+-keep class com.etcomm.dcare.app.activity.setting.AboutUsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:262
+-keep class com.etcomm.dcare.app.activity.setting.AgeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:266
+-keep class com.etcomm.dcare.app.activity.setting.BindHcActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class com.etcomm.dcare.app.activity.setting.ChangeNickNameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:166
+-keep class com.etcomm.dcare.app.activity.setting.EnterUserNameChooseAvatarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:276
+-keep class com.etcomm.dcare.app.activity.setting.HeightActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:352
+-keep class com.etcomm.dcare.app.activity.setting.MsgSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:245
+-keep class com.etcomm.dcare.app.activity.setting.RelateWorkNumberActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:271
+-keep class com.etcomm.dcare.app.activity.setting.SelectPicPopupWindowActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:253
+-keep class com.etcomm.dcare.app.activity.setting.SelectSexPopupWindowActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:193
+-keep class com.etcomm.dcare.app.activity.setting.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:360
+-keep class com.etcomm.dcare.app.activity.setting.SettingNewsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class com.etcomm.dcare.app.activity.setting.SettingPersonalDataActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:288
+-keep class com.etcomm.dcare.app.activity.setting.SettingSportGoalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class com.etcomm.dcare.app.activity.setting.WeightActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:100
+-keep class com.etcomm.dcare.app.base.BaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.etcomm.dcare.app.common.DcareApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:619
+-keep class com.etcomm.dcare.app.services.BluetoothService { <init>(...); }
+
+# view res/layout/activity_addtopicdisscuss.xml #generated:55
+# view res/layout/activity_disscussconment.xml #generated:22
+-keep class com.etcomm.dcare.app.widget.ContainsEmojiEditText { <init>(...); }
+
+# view res/layout/activity_personal.xml #generated:467
+# view res/layout/activity_personal.xml #generated:473
+# view res/layout/activity_personal.xml #generated:479
+# view res/layout/activity_settingnews.xml #generated:194
+# view res/layout/activity_settingnews.xml #generated:200
+# view res/layout/activity_settingnews.xml #generated:206
+-keep class com.etcomm.dcare.app.widget.WheelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:435
+-keep class com.etcomm.dcare.bluetooth.BluetoothLeService { <init>(...); }
+
+# view res/layout/fragment_walk.xml #generated:164
+-keep class com.etcomm.dcare.fragment.WalkPageFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:442
+-keep class com.etcomm.dcare.service.BootBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:407
+-keep class com.etcomm.dcare.service.DcareNotificationListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:415
+-keep class com.etcomm.dcare.service.DcareService { <init>(...); }
+
+# view AndroidManifest.xml #generated:433
+-keep class com.etcomm.dcare.service.DispatchService { <init>(...); }
+
+# view AndroidManifest.xml #generated:505
+-keep class com.etcomm.dcare.service.PushDcareReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:426
+-keep class com.etcomm.dcare.service.Receiver1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:430
+-keep class com.etcomm.dcare.service.Service2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:439
+-keep class com.etcomm.dcare.service.StepDataUploadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:437
+-keep class com.etcomm.dcare.service.UpdateDownloadApkService { <init>(...); }
+
+# view res/layout/fragment_page_walk.xml #generated:131
+# view res/layout/test_main.xml #generated:61
+-keep class com.etcomm.dcare.widget.AutoTextView { <init>(...); }
+
+# view res/layout/activity_login.xml #generated:34
+# view res/layout/activity_personal.xml #generated:49
+# view res/layout/activity_settingsportgoal.xml #generated:22
+# view res/layout/activity_sportrecommand.xml #generated:13
+# view res/layout/disscuss_item.xml #generated:27
+# view res/layout/disscusscomment_item.xml #generated:37
+# view res/layout/fragment_page_mine.xml #generated:50
+# view res/layout/hsv.xml #generated:6
+# view res/layout/item_avator_recycleview.xml #generated:6
+-keep class com.etcomm.dcare.widget.CircleImageView { <init>(...); }
+
+# view res/layout/page_item_main.xml #generated:12
+-keep class com.etcomm.dcare.widget.CircleSeekBar { <init>(...); }
+
+# view res/xml/msgsetting.xml #generated:15
+# view res/xml/msgsetting.xml #generated:24
+# view res/xml/msgsetting.xml #generated:6
+-keep class com.etcomm.dcare.widget.DcareSwitchPreference { <init>(...); }
+
+# view res/layout/acitivity_seach_topic.xml #generated:24
+# view res/layout/activity_forgotpassword.xml #generated:37
+# view res/layout/activity_forgotpassword.xml #generated:77
+# view res/layout/activity_login.xml #generated:48
+# view res/layout/activity_login.xml #generated:88
+# view res/layout/activity_nickname.xml #generated:15
+# view res/layout/activity_register.xml #generated:39
+# view res/layout/activity_register.xml #generated:98
+# view res/layout/activity_search_healthnewa.xml #generated:14
+# view res/layout/activity_search_share_group.xml #generated:14
+# view res/layout/enterusernamechooseavatar.xml #generated:125
+# view res/layout/enterusernamechooseavatar.xml #generated:171
+# view res/layout/enterusernamechooseavatar.xml #generated:79
+-keep class com.etcomm.dcare.widget.ExEditText { <init>(...); }
+
+# view res/layout/disscuss_item.xml #generated:174
+# view res/layout/item_msglist.xml #generated:45
+-keep class com.etcomm.dcare.widget.NoScrollGridView { <init>(...); }
+
+# view res/layout/activity_age.xml #generated:70
+# view res/layout/activity_enterageweightheight.xml #generated:26
+# view res/layout/activity_enterageweightheight.xml #generated:60
+# view res/layout/activity_enterageweightheight.xml #generated:83
+# view res/layout/activity_weight.xml #generated:76
+-keep class com.etcomm.dcare.widget.ObservableHorizontalScrollView { <init>(...); }
+
+# view res/layout/activity_height.xml #generated:52
+-keep class com.etcomm.dcare.widget.ObservableScrollView { <init>(...); }
+
+# view res/layout/activity_settingsportgoal.xml #generated:157
+-keep class com.etcomm.dcare.widget.ProgressSeekBar { <init>(...); }
+
+# view res/layout/enterusernamechooseavatar.xml #generated:24
+-keep class com.etcomm.dcare.widget.ScrollHorizontalScrollView { <init>(...); }
+
+# view res/layout/activiity_minefeedback.xml #generated:19
+# view res/layout/activity_aboutus.xml #generated:8
+# view res/layout/activity_addnewtopic.xml #generated:8
+# view res/layout/activity_age.xml #generated:7
+# view res/layout/activity_changepassword.xml #generated:8
+# view res/layout/activity_choosecomstructrue.xml #generated:8
+# view res/layout/activity_commonwebview.xml #generated:7
+# view res/layout/activity_companywelfare.xml #generated:7
+# view res/layout/activity_companywelfarelist.xml #generated:7
+# view res/layout/activity_department.xml #generated:7
+# view res/layout/activity_disscussconment.xml #generated:7
+# view res/layout/activity_enteractivation.xml #generated:16
+# view res/layout/activity_examinereport.xml #generated:7
+# view res/layout/activity_height.xml #generated:7
+# view res/layout/activity_minedevice.xml #generated:8
+# view res/layout/activity_minesports.xml #generated:8
+# view res/layout/activity_msgsetting.xml #generated:8
+# view res/layout/activity_myexchange.xml #generated:7
+# view res/layout/activity_mylottery.xml #generated:6
+# view res/layout/activity_personal.xml #generated:14
+# view res/layout/activity_pointscollectdetail.xml #generated:7
+# view res/layout/activity_pointsexchange.xml #generated:7
+# view res/layout/activity_relateworknumber.xml #generated:7
+# view res/layout/activity_setting.xml #generated:19
+# view res/layout/activity_settingnews.xml #generated:8
+# view res/layout/activity_settingsportgoal.xml #generated:7
+# view res/layout/activity_trend.xml #generated:7
+# view res/layout/activity_weight.xml #generated:7
+# view res/layout/enterusernamechooseavatar.xml #generated:7
+# view res/layout/pedometer_activity.xml #generated:8
+# view res/layout/suggest_sports_detail.xml #generated:7
+-keep class com.etcomm.dcare.widget.SimpleTitleBar { <init>(...); }
+
+# view res/layout/activity_forgotpassword.xml #generated:8
+# view res/layout/activity_healthconsult.xml #generated:6
+# view res/layout/activity_healthconsultlist.xml #generated:7
+# view res/layout/activity_msglist.xml #generated:8
+# view res/layout/activity_mycollection.xml #generated:7
+# view res/layout/activity_nickname.xml #generated:8
+# view res/layout/activity_register.xml #generated:7
+# view res/layout/activity_topicdisscusslist.xml #generated:8
+# view res/layout/activity_welfarelottery.xml #generated:7
+-keep class com.etcomm.dcare.widget.SimpleTitleBarWithRightText { <init>(...); }
+
+# view res/layout/activity_enterageweightheight.xml #generated:14
+-keep class com.etcomm.dcare.widget.SlideSwitch { <init>(...); }
+
+# view res/layout/activity_msgsetting.xml #generated:103
+# view res/layout/activity_msgsetting.xml #generated:154
+# view res/layout/activity_msgsetting.xml #generated:52
+# view res/layout/activity_setting.xml #generated:298
+# view res/layout/pedometer_activity.xml #generated:31
+# view res/layout/pedometer_activity.xml #generated:91
+-keep class com.etcomm.dcare.widget.SwitchButton { <init>(...); }
+
+# view res/layout/activity_share.xml #generated:6
+# view res/layout/activity_sportrecommand.xml #generated:7
+-keep class com.etcomm.dcare.widget.SystemTitle { <init>(...); }
+
+# view AndroidManifest.xml #generated:400
+-keep class com.etcomm.dcare.wxapi.WXEntryActivity { <init>(...); }
+
+# view res/layout/acitivity_seach_topic.xml #generated:42
+# view res/layout/activity_companywelfarelist.xml #generated:13
+# view res/layout/activity_disscussconment.xml #generated:46
+# view res/layout/activity_healthconsultlist.xml #generated:13
+# view res/layout/activity_minesports.xml #generated:14
+# view res/layout/activity_mycollection.xml #generated:13
+# view res/layout/activity_myexchange.xml #generated:13
+# view res/layout/activity_mypointsdetail.xml #generated:99
+# view res/layout/activity_pointsexchange.xml #generated:42
+# view res/layout/activity_search_healthnewa.xml #generated:38
+# view res/layout/activity_search_share_group.xml #generated:48
+# view res/layout/activity_topicdisscusslist.xml #generated:14
+# view res/layout/fragment_page_around.xml #generated:126
+# view res/layout/fragment_page_around.xml #generated:147
+# view res/layout/fragment_page_suggest.xml #generated:47
+-keep class com.handmark.pulltorefresh.library.PullToRefreshListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:565
+-keep class com.igexin.download.DownloadProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:559
+-keep class com.igexin.download.DownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:555
+-keep class com.igexin.download.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:571
+-keep class com.igexin.getuiext.activity.GetuiExtActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:613
+-keep class com.igexin.getuiext.service.GetuiExtService { <init>(...); }
+
+# view AndroidManifest.xml #generated:604
+-keep class com.igexin.getuiext.service.PayloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:579
+-keep class com.igexin.sdk.GActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:546
+-keep class com.igexin.sdk.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:538
+-keep class com.igexin.sdk.PushManagerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:526
+-keep class com.igexin.sdk.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:514
+-keep class com.igexin.sdk.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:520
+-keep class com.igexin.sdk.PushServiceUser { <init>(...); }
+
+# view res/layout/view_tips_loading.xml #generated:21
+-keep class com.loadingprogress.demo.ProgressWheel { <init>(...); }
+
+# view AndroidManifest.xml #generated:368
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:394
+-keep class com.photoselector.ui.PhotoPreviewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:389
+-keep class com.photoselector.ui.PhotoSelectorActivity { <init>(...); }
+
+# view res/layout/view_photopreview.xml #generated:16
+-keep class com.polites.GestureImageView { <init>(...); }
+
+# view res/layout/umeng_socialize_post_share.xml #generated:2
+-keep class com.umeng.socialize.editorpage.KeyboardListenRelativeLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.umeng.socialize.editorpage.ShareActivity { <init>(...); }
+
+# view res/layout/activity_msglist.xml #generated:14
+-keep class com.yydcdut.sdlv.SlideAndDragListView { <init>(...); }
+
+# view AndroidManifest.xml #generated:85
+-keep class wxapi.WXEntryActivity { <init>(...); }
+

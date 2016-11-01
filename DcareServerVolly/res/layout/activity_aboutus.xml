@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <LinearLayout
+        android:id="@+id/company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/marginmiddle"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="益体康（北京）科技有限公司"
+            android:textColor="@color/aboutus_text_light_color" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="All Rights Reserved"
+            android:textColor="@color/aboutus_text_light_color" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/company"
+        android:layout_below="@+id/titlebar"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/marginmiddle"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/app_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/marginsmall"
+                android:textColor="@color/aboutus_text_color"
+                android:textSize="@dimen/common_text_small" />
+
+            <TextView
+                android:id="@+id/app_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="25dp"
+                android:textColor="@color/aboutus_text_color"
+                android:textSize="@dimen/common_text_small" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/mine_item_bg"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/net_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/marginlarge"
+                    android:text="官网:"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:id="@+id/personal_sex_imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/marginhuge"
+                    android:scaleType="matrix"
+                    android:src="@drawable/rightindicator" />
+
+                <TextView
+                    android:id="@+id/personal_sex_tv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:autoText="false"
+                    android:gravity="center"
+                    android:padding="8dp"
+                    android:singleLine="true"
+                    android:text="http://www.etcomm.cn"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textColorLink="@color/aboutus_text_color"
+                    android:textSize="17sp"
+                    android:visibility="gone" />
+                <!--
+                     android:layout_toLeftOf="@+id/personal_sex_imageView1"
+                    android:layout_toRightOf="@+id/net_tv"
+                -->
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/mine_item_bg"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/weibo_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/marginlarge"
+                    android:text="微博:"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:id="@+id/weibo_imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/marginhuge"
+                    android:scaleType="matrix"
+                    android:src="@drawable/rightindicator" />
+
+                <TextView
+                    android:id="@+id/weibo_link"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:autoLink="web"
+                    android:gravity="center_horizontal"
+                    android:padding="8dp"
+                    android:text="益体康"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+            <!--
+     android:layout_toLeftOf="@+id/weibo_imageView1"
+                    android:layout_toRightOf="@+id/weibo_tv"
+            -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/mine_item_bg"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/wechat_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/marginlarge"
+                    android:text="微信:"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:id="@+id/wechat_imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/marginhuge"
+                    android:scaleType="matrix"
+                    android:src="@drawable/rightindicator" />
+
+                <TextView
+                    android:id="@+id/wechat_link"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:autoLink="web"
+                    android:gravity="center_horizontal"
+                    android:padding="8dp"
+                    android:text="上班趣"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+            </RelativeLayout>
+            <!--
+               android:layout_marginRight="@dimen/marginlarge"
+                    android:layout_toLeftOf="@+id/wechat_imageView1"
+                    android:layout_toRightOf="@+id/wechat_tv"
+            -->
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/mine_item_bg"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/phone_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/marginlarge"
+                    android:text="客服电话:"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp" />
+
+                <ImageView
+                    android:id="@+id/phone_imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/marginhuge"
+                    android:scaleType="matrix"
+                    android:src="@drawable/rightindicator" />
+
+                <TextView
+                    android:id="@+id/phone_link"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:autoLink="web"
+                    android:gravity="center"
+                    android:padding="8dp"
+                    android:text="4006860828"
+                    android:textColor="@color/aboutus_text_color"
+                    android:textSize="17sp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/version_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/btn_common_normal"
+                android:clickable="true">
+
+                <TextView
+                    android:id="@+id/version_update_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerInParent="true"
+                    android:layout_centerVertical="true"
+                    android:text="版本更新"
+                    android:textColor="@color/text_color_white"
+                    android:textSize="17sp" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

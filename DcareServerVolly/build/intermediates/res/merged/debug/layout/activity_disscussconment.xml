@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg" >
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title" >
+    </com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <LinearLayout
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/comment_bottom_bar_bg"
+        android:orientation="horizontal"
+        android:padding="0dp" >
+
+        <com.etcomm.dcare.app.widget.ContainsEmojiEditText
+            android:id="@+id/comment_et"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginsmall"
+            android:layout_weight="1"
+            android:background="@null"
+            android:cursorVisible="true"
+            android:hint="说点什么吧 ......"
+            android:maxLength="140"
+            android:paddingBottom="@dimen/marginmiddle"
+            android:textCursorDrawable="@drawable/cursor_drawable" />
+
+        <Button
+            android:id="@+id/comment_send"
+            style="@style/common_btn_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:background="@color/common_org"
+            android:text="发布"
+            android:textColor="@color/commen_text_color" />
+    </LinearLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/commmentpulllist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottom_bar"
+        android:layout_below="@+id/titlebar" >
+    </com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <include
+        android:id="@+id/emptyview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_bar"
+        android:layout_below="@+id/titlebar"
+        layout="@layout/empty_disscussconment_layout"
+        android:visibility="invisible" />
+
+</RelativeLayout>

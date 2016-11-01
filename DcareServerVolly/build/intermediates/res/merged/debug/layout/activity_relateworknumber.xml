@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title" >
+    </com.etcomm.dcare.widget.SimpleTitleBar>
+
+
+    <LinearLayout
+        android:layout_below="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/enternumber_li"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible" >
+
+                <EditText
+                    android:id="@+id/enterworknumber_et"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/marginlarge"
+                    android:layout_marginTop="@dimen/marginlargehuge"
+                    android:background="@null"
+                    android:gravity="center_horizontal"
+                    android:hint="请输入你的员工号"
+                    android:maxLength="32"
+                    android:textCursorDrawable="@drawable/cursor_drawable" />
+
+                <View
+                    android:id="@+id/line"
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:background="@color/common_org" />
+
+
+                <TextView
+                    android:id="@+id/alreadyentered_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="已关联你的员工号"
+                    android:textColor="@color/gray"
+                    android:textSize="22sp"
+                    android:visibility="invisible" />
+                
+                <TextView
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/job_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="@color/gray"
+                    android:textSize="22sp"
+                    android:visibility="invisible" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/commit_btn"
+            style="@style/common_btn_style"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/marginlargehuge"
+            android:background="@drawable/btn_common_bg"
+            android:gravity="center"
+            android:paddingLeft="@dimen/marginlarge"
+            android:paddingRight="@dimen/marginlarge"
+            android:text="提 交"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+    </LinearLayout>
+    <!-- </ScrollView> -->
+	<TextView 
+	    android:id="@+id/prompt"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:textSize="15sp"
+	    android:text="@string/relateworknumber_prompt"
+	    android:layout_alignParentBottom="true"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginBottom="@dimen/marginlarge"
+	    />
+</RelativeLayout>

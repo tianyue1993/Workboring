@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/bg_default"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <com.etcomm.dcare.widget.ExEditText
+            android:id="@+id/search_healthnew_et"
+            android:layout_width="wrap_content"
+            android:layout_height="27dp"
+            android:layout_marginLeft="@dimen/marginhuge"
+            android:background="@drawable/search_topic_bg"
+            android:drawableLeft="@drawable/around_search"
+            android:drawablePadding="@dimen/marginlarge"
+            android:hint="请输入要搜索的资讯"
+            android:imeOptions="actionSearch"
+            android:paddingLeft="@dimen/marginmiddle"
+            android:paddingRight="@dimen/marginsmall"
+            android:singleLine="true"
+            android:textCursorDrawable="@drawable/cursor_drawable"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginmiddle"
+            android:text="取消" />
+    </LinearLayout>
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pulllistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

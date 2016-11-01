@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/tab_bg"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/radio_suggest"
+            style="@style/weibo_tab"
+            android:checked="true"
+            android:drawableTop="@drawable/dcare_tab_suggest"
+            android:text="@string/home_suggest" />
+
+        <RadioButton
+            android:id="@+id/radio_around"
+            style="@style/weibo_tab"
+            android:drawableTop="@drawable/dcare_tab_around"
+            android:text="@string/home_around" />
+
+        <RadioButton
+            android:id="@+id/radio_walk"
+            style="@style/weibo_tab"
+            android:drawableTop="@drawable/dcare_tab_walk"
+            android:text="@string/home_walk" />
+
+        <RadioButton
+            android:id="@+id/radio_find"
+            style="@style/weibo_tab"
+            android:drawableTop="@drawable/dcare_tab_find"
+            android:text="@string/home_find" />
+
+        <RadioButton
+            android:id="@+id/radio_mine"
+            style="@style/weibo_tab"
+            android:drawableTop="@drawable/dcare_tab_mine"
+            android:text="@string/home_mine" />
+    </RadioGroup>
+
+</LinearLayout>

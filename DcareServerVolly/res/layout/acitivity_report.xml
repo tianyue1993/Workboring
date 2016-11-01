@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+
+    <com.etcomm.dcare.widget.SimpleTitleBarWithRightText
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBarWithRightText>
+
+    <GridView
+        android:id="@+id/gview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="20dp"
+        android:columnWidth="20dp"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="20dp"></GridView>
+
+    <EditText
+        android:id="@+id/report_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlebar"
+        android:layout_marginLeft="@dimen/marginlarge"
+        android:layout_marginRight="@dimen/marginlarge"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_roundrantangle"
+        android:gravity="top"
+        android:hint="请输入要举报的内容"
+        android:maxLength="100"
+        android:minLines="6"
+        android:paddingLeft="@dimen/marginsmall"
+        android:paddingRight="@dimen/marginsmall"
+        android:paddingTop="@dimen/marginsmall"
+        android:textColor="#5a5a5a"
+        android:textColorHint="@color/darkbrown"
+        android:textCursorDrawable="@drawable/cursor_drawable" />
+
+    <TextView
+        android:id="@+id/contact_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/feedback_contact_tv"
+        android:layout_gravity="right"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="@dimen/marginsmall"
+        android:maxLength="100"
+        android:text="100字"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/commit"
+        style="@style/common_btn_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_common_bg"
+        android:clickable="true"
+        android:enabled="true"
+        android:text="举报" />
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.chunyu.pedometerservice"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+
+        <!-- Sugar的数据库名称, 默认: Sugar.db -->
+        <!-- 春雨: Chunyu.Pedometer.db -->
+        <!-- 兼容测试功能使用默认, 发布新版本一律使用春雨 -->
+        <meta-data
+            android:name="DATABASE"
+            android:value="Chunyu.Pedometer.db" />
+
+        <!-- Sugar的版本号 -->
+        <meta-data
+            android:name="VERSION"
+            android:value="3" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="me.chunyu.pedometerservice.database" />
+
+        <service
+            android:name="me.chunyu.pedometerservice.PedometerCounterService"
+            android:exported="false" />
+
+        <receiver
+            android:name="me.chunyu.pedometerservice.receivers.TimerReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="me.chunyu.pedometer.midnight_alarm_filter" />
+                <action android:name="me.chunyu.pedometer.service_alive_alarm_filter" />
+                <action android:name="android.intent.action.DATE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="me.chunyu.pedometerservice.receivers.SystemReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+                <action android:name="android.intent.action.BATTERY_LOW" />
+                <action android:name="android.intent.action.BATTERY_CHANGED" />
+                <action android:name="android.intent.action.BATTERY_OKAY" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="me.chunyu.pedometerservice.receivers.ParameterReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="me.chunyu.pedometer.set_offset_data_filter" />
+                <action android:name="me.chunyu.pedometer.set_motion_time_filter" />
+                <action android:name="me.chunyu.pedometer.algorithm_set_parameters_filter" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

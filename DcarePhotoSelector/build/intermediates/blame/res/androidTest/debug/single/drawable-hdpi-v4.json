@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_title.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_title.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_picture_loadfailed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_picture_loadfailed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_picture_loading.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_picture_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_back_arrow_white_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_back_arrow_white_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_camera_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_back_arrow_white_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_back_arrow_white_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_grey_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_grey_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_loading_white.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_loading_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_spinner_white.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_spinner_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_choice_green.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_choice_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_dark_translucent.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_dark_translucent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_title_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_title_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bg_title_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_title_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_camera_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\chunyu\\WorkSpace\\DcarePhotoSelector\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_camera_pressed.png"
+    }
+]

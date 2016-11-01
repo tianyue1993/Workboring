@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/marginmiddle"
+    android:background="@color/common_bg" >
+
+    <ImageView
+        android:id="@+id/item_healthnews_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="@dimen/marginsmall" />
+
+    <TextView
+        android:id="@+id/item_healthnews_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="7dp"
+        android:layout_toRightOf="@+id/item_healthnews_image"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/item_healthnews_sumary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_healthnews_title"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/item_healthnews_image"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/item_healthnews_alreadyread"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/item_healthnews_sumary"
+        android:layout_marginRight="@dimen/marginmiddle"
+        android:drawableLeft="@drawable/eyereadcount_black"
+        android:drawablePadding="@dimen/marginmiddle"
+        android:paddingLeft="@dimen/marginlarge" />
+
+</RelativeLayout>

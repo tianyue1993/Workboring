@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:background="@color/walk_tab_bg">
+
+        <ImageView
+            android:id="@+id/around_search_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/marginlarge"
+            android:src="@drawable/arout_search" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/marginlittle"
+            android:layout_marginTop="@dimen/marginlittle"
+            android:text="@string/home_around"
+            android:textColor="@color/white"
+            android:textSize="@dimen/common_title_textsize" />
+
+        <ImageView
+            android:id="@+id/around_editnewtopic_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/marginsmall"
+            android:layout_toRightOf="@+id/around_search_iv"
+            android:src="@drawable/around_editnewtopic" />
+
+        <ImageView
+            android:id="@+id/msg_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/marginlarge"
+            android:src="@drawable/icon_msg" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="120dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/marginmiddle"
+        android:background="@drawable/arout_tab_li_bg"
+        android:orientation="horizontal">
+
+
+        <View
+            android:id="@+id/leftindicator"
+            android:layout_width="60dp"
+            android:layout_height="28dp"
+            android:background="@drawable/arout_tab_choosed_bg"
+            android:visibility="invisible" />
+
+        <View
+            android:id="@+id/rightindicator"
+            android:layout_width="60dp"
+            android:layout_height="28dp"
+            android:layout_toRightOf="@+id/leftindicator"
+            android:background="@drawable/arout_tab_choosed_bg"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/around_tab_attationed_li"
+            android:layout_width="60dp"
+            android:layout_height="28dp"
+            android:background="@drawable/arout_tab_choosed_bg"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/attationed"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+
+        <TextView
+            android:id="@+id/around_tab_notattationed_li"
+            android:layout_width="60dp"
+            android:layout_height="28dp"
+            android:layout_toRightOf="@+id/around_tab_attationed_li"
+            android:background="@null"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/notattationed"
+            android:textSize="16sp" />
+        <!-- </LinearLayout> -->
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg">
+
+    <com.etcomm.dcare.widget.SimpleTitleBar
+        android:id="@+id/titlebar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBar>
+
+    <TextView
+        android:id="@+id/recyclerview_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titlebar"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:text="滑动选择头像"
+        android:textColor="#fac158"
+        android:textSize="18sp" />
+
+    <com.etcomm.dcare.widget.ScrollHorizontalScrollView
+        android:id="@+id/scrollhsv"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_below="@+id/recyclerview_tv"
+        android:layout_marginTop="@dimen/marginlarge"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/scrollli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="120dp"
+            android:paddingRight="100dp"></LinearLayout>
+    </com.etcomm.dcare.widget.ScrollHorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/li_nickyname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/scrollhsv"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/sex_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/marginmiddle"
+            android:background="@drawable/btn_sex_selector"
+            android:button="@null"
+            android:minHeight="30dp"
+            android:minWidth="100dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginhuge"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginsmall"
+                android:singleLine="true"
+                android:text="输入姓名:"
+                android:textColor="#fac158"
+                android:textSize="15sp" />
+
+            <com.etcomm.dcare.widget.ExEditText
+                android:id="@+id/et_username"
+                style="@style/common_edit_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:layout_weight="1"
+                android:background="@null"
+                android:cursorVisible="true"
+                android:hint="输入您的真实姓名"
+                android:textColor="#fff"
+                android:textColorHint="#c7b88f"
+                android:textCursorDrawable="@drawable/cursor_drawable" />
+
+            <ImageView
+                android:id="@+id/iv_del_username1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:src="@drawable/nickname_delete"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/li_nickyname"
+            android:background="#fac158" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/marginhuge"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginsmall"
+                android:singleLine="true"
+                android:text="输入昵称:"
+                android:textColor="#fac158"
+                android:textSize="15sp" />
+
+            <com.etcomm.dcare.widget.ExEditText
+                android:id="@+id/et_nickyname"
+                style="@style/common_edit_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:layout_weight="1"
+                android:background="@null"
+                android:cursorVisible="true"
+                android:hint="输入昵称"
+                android:textColor="#fff"
+                android:textColorHint="#c7b88f"
+                android:textCursorDrawable="@drawable/cursor_drawable" />
+
+            <ImageView
+                android:id="@+id/iv_del_username2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:src="@drawable/nickname_delete"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/li_nickyname"
+            android:background="#fac158" />
+
+        <LinearLayout
+            android:id="@+id/ll_jobnumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="@dimen/marginhuge"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginsmall"
+                android:singleLine="true"
+                android:text="输入工号:"
+                android:textColor="#fac158"
+                android:textSize="15sp" />
+
+            <com.etcomm.dcare.widget.ExEditText
+                android:id="@+id/et_worknumber"
+                style="@style/common_edit_style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginlarge"
+                android:layout_weight="1"
+                android:background="@null"
+                android:cursorVisible="true"
+                android:hint="输入您的工号"
+                android:textColor="#fff"
+                android:textColorHint="#c7b88f"
+                android:textCursorDrawable="@drawable/cursor_drawable" />
+
+            <ImageView
+                android:id="@+id/iv_del_username3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:src="@drawable/nickname_delete"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_below="@+id/li_nickyname"
+            android:background="#fac158" />
+    </LinearLayout>
+
+    <!-- A RecyclerView with some commonly used attributes -->
+
+    <Button
+        android:id="@+id/btn_enterusernamechooseavatarnext"
+        style="@style/common_btn_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/li_nickyname"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_common_bg"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textColor="#f4f3f3" />
+
+</RelativeLayout>

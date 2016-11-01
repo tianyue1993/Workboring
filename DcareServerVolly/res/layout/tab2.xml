@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/around_notattentionedlist_rl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/marginmiddle"
+        android:background="@color/common_bg"
+        android:visibility="gone">
+
+        <com.handmark.pulltorefresh.library.PullToRefreshListView
+            android:id="@+id/around_notattentionedlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/common_bg" />
+
+        <include
+            android:id="@+id/notattention_emptyview"
+            layout="@layout/empty_topic_layout"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

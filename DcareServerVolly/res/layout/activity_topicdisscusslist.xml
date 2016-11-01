@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg">
+
+    <LinearLayout
+        android:id="@+id/base_title"
+        android:layout_width="wrap_content"
+        android:layout_height="135dp"
+        android:background="@color/title_bg_color"
+        android:orientation="vertical">
+
+        <com.etcomm.dcare.widget.SimpleTitleBarWithRightText
+            android:id="@+id/titlebar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_alert_title"></com.etcomm.dcare.widget.SimpleTitleBarWithRightText>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.etcomm.dcare.widget.CircleImageView
+                android:id="@+id/topic_image"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_margin="3dp"
+                android:src="@drawable/ic_header" />
+
+            <EditText
+                android:id="@+id/topic_discuss"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:background="@null"
+                android:cursorVisible="false"
+                android:imeOptions="actionDone"
+                android:inputType="text|textMultiLine"
+                android:maxLength="20"
+                android:enabled="false"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textCursorDrawable="@drawable/test_cursor"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/attention_member"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="3dp">
+
+            <com.etcomm.dcare.widget.HorizontalListView
+                android:id="@+id/attion_image"
+                android:layout_width="140dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/attion_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/depart_rank"
+                android:layout_width="0dp"
+                android:layout_height="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:src="@drawable/depart_rank"
+                android:visibility="gone" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/pulllistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/base_title"></com.handmark.pulltorefresh.library.PullToRefreshListView>
+
+    <include
+        android:id="@+id/emptyview"
+        layout="@layout/empty_topicdiscuss_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/base_title"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/adddisscuss_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/marginlargehuge"
+        android:layout_marginRight="@dimen/marginsmall"
+        android:minHeight="30dp"
+        android:minWidth="30dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adddisscuss" />
+
+</RelativeLayout>

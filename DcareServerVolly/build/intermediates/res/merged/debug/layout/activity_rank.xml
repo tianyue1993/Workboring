@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_alert_title"
+        android:background="@color/title_bg_color" >
+        <ImageView
+            android:id="@+id/title_right_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/marginlarge"
+            android:paddingRight="@dimen/marginlarge"
+            android:gravity="center"
+            android:src="@drawable/how_point_to" />
+        <ImageView
+            android:id="@+id/leftimage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:padding="20dp"
+            android:src="@drawable/back" />
+	<RelativeLayout
+        android:layout_width="160dp"
+        android:layout_height="28dp"
+        android:background="@drawable/arout_tab_li_white_bg"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal" >
+
+     <!--    <LinearLayout
+            android:id="@+id/around_tab_attationed_li"
+            android:layout_width="80dp"
+            android:layout_height="28dp"
+            android:background="@drawable/arout_tab_li_bg"
+            android:gravity="center_horizontal"
+            android:maxHeight="35dp" > -->
+			<View 
+			    android:id="@+id/leftindicator"
+                android:layout_width="80dp"
+                android:layout_height="28dp"
+                android:visibility="invisible"
+                android:background="@drawable/arout_tab_choosed_bg"
+			    />
+			<View 
+			    android:id="@+id/rightindicator"
+                android:layout_width="80dp"
+                android:layout_height="28dp"
+                android:layout_toRightOf="@+id/leftindicator"
+                android:visibility="invisible"
+                android:background="@drawable/arout_tab_choosed_bg"
+			    />
+            <TextView
+                android:id="@+id/around_tab_attationed"
+                android:layout_width="80dp"
+                android:layout_height="28dp"
+                android:singleLine="true"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:background="@drawable/arout_tab_choosed_bg"
+                android:text="个人排行"
+                android:textSize="15sp" />
+			
+      <!--   <LinearLayout
+            android:id="@+id/around_tab_notattationed_li"
+            android:layout_width="80dp"
+            android:layout_height="28dp"
+            android:background="@drawable/around_tab_unselect"
+            android:gravity="center" > -->
+
+            <TextView
+                android:id="@+id/around_tab_notattationed"
+                android:layout_width="80dp"
+                android:layout_height="28dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:background="@null"
+                android:layout_toRightOf="@+id/around_tab_attationed"
+                android:text="部门排行"
+                android:textSize="15sp" />
+    </RelativeLayout>
+ <!--        <Switch
+            android:id="@+id/rankswitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/rankswitch"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textOff="个人积分"
+            android:textOn="部门积分"
+            android:thumb="@drawable/switch_rank_thumb"
+            android:thumbTextPadding="10dp"
+            android:track="@drawable/switch_rank_track" /> -->
+        <!--
+                  android:background="@drawable/switch_bg_disable"              android:track="@drawable/switch_rank_track"
+                android:thumb="@drawable/switch_rank_thumb"
+        -->
+
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
