@@ -280,6 +280,7 @@ public class WalkPageFragment extends BaseFragment implements BluetoothConnectLi
     public void onAttach(Activity activity) {
         super.onAttach(activity);
         mContext = activity;
+        showToast("123");
         sp = activity.getPreferences(Context.MODE_PRIVATE);
     }
 
